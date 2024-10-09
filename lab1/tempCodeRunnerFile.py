@@ -1,0 +1,1 @@
+/Users/mac/Desktop/multimedia-mining-indexing/lab1/newback.jpeg

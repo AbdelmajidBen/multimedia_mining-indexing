@@ -3,7 +3,7 @@ import numpy as np
 
 def nothing(x):
     pass
-image = cv2.imread('/Users/mac/Desktop/multimedia-mining-indexing/lab1/fondvert.png')
+image = cv2.imread('/Users/mac/Desktop/MST AISD/S3/mutimedia mining/multimedia-mining-indexing labs/lab1/images/im1.jpg')
 
 # Convert the image to HSV
 hsv_image = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)

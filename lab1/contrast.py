@@ -11,7 +11,14 @@ def nothing(x):
     pass
 
 # Load the image
-image = cv2.imread('/Users/mac/Desktop/MST AISD/S3/mutimedia mining/multimedia-mining-indexing labs/lab1/fondvert.png')
+image = cv2.imread('/Users/mac/Desktop/MST AISD/S3/mutimedia mining/multimedia-mining-indexing labs/lab1/images/im1.jpg')
+
+# Set the height and width to minus 50%
+height, width = image.shape[:2]
+new_height = int(height * 0.5)
+new_width = int(width * 0.5)
+resized_image = cv2.resize(image, (new_width, new_height))
+
 
 # Check if image loaded properly
 if image is None:
@@ -30,7 +37,7 @@ while True:
     alpha = cv2.getTrackbarPos('Contrast', 'Contrast Adjustment') / 100.0
     
     # Adjust the contrast
-    adjusted_image = adjust_contrast(image, alpha)
+    adjusted_image = adjust_contrast(resized_image, alpha)
     
     # Display the image with adjusted contrast
     cv2.imshow('Contrast Adjustment', adjusted_image)

@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 
 
-image = cv2.imread('/Users/mac/Desktop/multimedia-mining-indexing/lab1/fondvert.png')
-background = cv2.imread('/Users/mac/Desktop/multimedia-mining-indexing/lab1/newback.jpeg')  # Replace with your background image
+image = cv2.imread('/Users/mac/Desktop/MST AISD/S3/mutimedia mining/multimedia-mining-indexing labs/lab1/images/fondvert.png')
+background = cv2.imread('/Users/mac/Desktop/MST AISD/S3/mutimedia mining/multimedia-mining-indexing labs/lab1/images/im1.jpg')  # Replace with your background image
 
 background = cv2.resize(background, (image.shape[1], image.shape[0]))
 
