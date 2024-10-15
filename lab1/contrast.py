@@ -42,6 +42,9 @@ while True:
     # Display the image with adjusted contrast
     cv2.imshow('Contrast Adjustment', adjusted_image)
     
+    # Print the current alpha value
+    print("Current Alpha:", alpha)
+    
     if cv2.waitKey(1) & 0xFF == 27:  # Press 'Esc' to exit
         break
 
