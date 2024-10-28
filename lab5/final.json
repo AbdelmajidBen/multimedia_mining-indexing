@@ -1,0 +1,572 @@
+{
+    "8982.jpg vs 8189.jpg": {
+        "global_distance": 92.4103378754496
+    },
+    "8982.jpg vs 8994.jpg": {
+        "global_distance": 77.9223911386022
+    },
+    "8982.jpg vs 8980.jpg": {
+        "global_distance": 85.4906277473978
+    },
+    "8982.jpg vs 8200.jpg": {
+        "global_distance": 90.03514793456918
+    },
+    "8982.jpg vs 8990.jpg": {
+        "global_distance": 73.97332739103537
+    },
+    "8982.jpg vs 3409.jpg": {
+        "global_distance": 111.52277295325105
+    },
+    "8982.jpg vs 3408.jpg": {
+        "global_distance": 130.71060357263326
+    },
+    "8982.jpg vs 8116.jpg": {
+        "global_distance": 82.36345957684718
+    },
+    "8982.jpg vs 3486.jpg": {
+        "global_distance": 95.79969036510784
+    },
+    "8982.jpg vs 1468.jpg": {
+        "global_distance": 101.14946259847444
+    },
+    "8982.jpg vs 1479.jpg": {
+        "global_distance": 116.28779987112301
+    },
+    "8982.jpg vs 1484.jpg": {
+        "global_distance": 104.56170770000116
+    },
+    "8982.jpg vs 1488.jpg": {
+        "global_distance": 113.10448246210957
+    },
+    "8982.jpg vs 3448.jpg": {
+        "global_distance": 118.77703650083157
+    },
+    "8982.jpg vs 1472.jpg": {
+        "global_distance": 116.86949093515403
+    },
+    "8982.jpg vs 8185.jpg": {
+        "global_distance": 100.29835465834982
+    },
+    "8982.jpg vs 3402.jpg": {
+        "global_distance": 101.14867405920246
+    },
+    "8982.jpg vs 8186.jpg": {
+        "global_distance": 88.34319963798832
+    },
+    "8982.jpg vs 8965.jpg": {
+        "global_distance": 73.35574908847197
+    },
+    "8189.jpg vs 8994.jpg": {
+        "global_distance": 87.21561239224046
+    },
+    "8189.jpg vs 8980.jpg": {
+        "global_distance": 91.6585206442395
+    },
+    "8189.jpg vs 8200.jpg": {
+        "global_distance": 74.76659182281173
+    },
+    "8189.jpg vs 8990.jpg": {
+        "global_distance": 88.25301674498138
+    },
+    "8189.jpg vs 3409.jpg": {
+        "global_distance": 112.63938346832894
+    },
+    "8189.jpg vs 3408.jpg": {
+        "global_distance": 108.72899609193843
+    },
+    "8189.jpg vs 8116.jpg": {
+        "global_distance": 75.85476177138996
+    },
+    "8189.jpg vs 3486.jpg": {
+        "global_distance": 108.57978388382304
+    },
+    "8189.jpg vs 1468.jpg": {
+        "global_distance": 95.94537874470089
+    },
+    "8189.jpg vs 1479.jpg": {
+        "global_distance": 105.86950718012449
+    },
+    "8189.jpg vs 1484.jpg": {
+        "global_distance": 97.8925696007134
+    },
+    "8189.jpg vs 1488.jpg": {
+        "global_distance": 114.90192284397826
+    },
+    "8189.jpg vs 3448.jpg": {
+        "global_distance": 107.07454045509945
+    },
+    "8189.jpg vs 1472.jpg": {
+        "global_distance": 102.507460073298
+    },
+    "8189.jpg vs 8185.jpg": {
+        "global_distance": 83.53910851710661
+    },
+    "8189.jpg vs 3402.jpg": {
+        "global_distance": 106.02303487585411
+    },
+    "8189.jpg vs 8186.jpg": {
+        "global_distance": 87.17552833564932
+    },
+    "8189.jpg vs 8965.jpg": {
+        "global_distance": 92.91300754727538
+    },
+    "8994.jpg vs 8980.jpg": {
+        "global_distance": 85.47223959390989
+    },
+    "8994.jpg vs 8200.jpg": {
+        "global_distance": 83.2949710885771
+    },
+    "8994.jpg vs 8990.jpg": {
+        "global_distance": 75.66107628429808
+    },
+    "8994.jpg vs 3409.jpg": {
+        "global_distance": 111.5579886004969
+    },
+    "8994.jpg vs 3408.jpg": {
+        "global_distance": 118.4858184495157
+    },
+    "8994.jpg vs 8116.jpg": {
+        "global_distance": 79.32528443149667
+    },
+    "8994.jpg vs 3486.jpg": {
+        "global_distance": 100.03768046871313
+    },
+    "8994.jpg vs 1468.jpg": {
+        "global_distance": 95.93567262047429
+    },
+    "8994.jpg vs 1479.jpg": {
+        "global_distance": 109.90129977866748
+    },
+    "8994.jpg vs 1484.jpg": {
+        "global_distance": 99.37893462817404
+    },
+    "8994.jpg vs 1488.jpg": {
+        "global_distance": 110.5803363480639
+    },
+    "8994.jpg vs 3448.jpg": {
+        "global_distance": 112.11845477635484
+    },
+    "8994.jpg vs 1472.jpg": {
+        "global_distance": 108.49152847929871
+    },
+    "8994.jpg vs 8185.jpg": {
+        "global_distance": 91.99375600831162
+    },
+    "8994.jpg vs 3402.jpg": {
+        "global_distance": 101.72169978571073
+    },
+    "8994.jpg vs 8186.jpg": {
+        "global_distance": 87.21727965114322
+    },
+    "8994.jpg vs 8965.jpg": {
+        "global_distance": 78.82892074096974
+    },
+    "8980.jpg vs 8200.jpg": {
+        "global_distance": 89.79356214587649
+    },
+    "8980.jpg vs 8990.jpg": {
+        "global_distance": 84.21337418725764
+    },
+    "8980.jpg vs 3409.jpg": {
+        "global_distance": 107.68885436073657
+    },
+    "8980.jpg vs 3408.jpg": {
+        "global_distance": 113.90447584605305
+    },
+    "8980.jpg vs 8116.jpg": {
+        "global_distance": 87.46212407775329
+    },
+    "8980.jpg vs 3486.jpg": {
+        "global_distance": 97.45795341117652
+    },
+    "8980.jpg vs 1468.jpg": {
+        "global_distance": 97.01145308507016
+    },
+    "8980.jpg vs 1479.jpg": {
+        "global_distance": 105.83690800543216
+    },
+    "8980.jpg vs 1484.jpg": {
+        "global_distance": 98.48825837053495
+    },
+    "8980.jpg vs 1488.jpg": {
+        "global_distance": 108.50946445053623
+    },
+    "8980.jpg vs 3448.jpg": {
+        "global_distance": 108.63012336227676
+    },
+    "8980.jpg vs 1472.jpg": {
+        "global_distance": 106.84000474983755
+    },
+    "8980.jpg vs 8185.jpg": {
+        "global_distance": 96.74921205871678
+    },
+    "8980.jpg vs 3402.jpg": {
+        "global_distance": 98.27070971759143
+    },
+    "8980.jpg vs 8186.jpg": {
+        "global_distance": 91.79527729575486
+    },
+    "8980.jpg vs 8965.jpg": {
+        "global_distance": 85.2325497322897
+    },
+    "8200.jpg vs 8990.jpg": {
+        "global_distance": 85.25541139634689
+    },
+    "8200.jpg vs 3409.jpg": {
+        "global_distance": 117.70131501142333
+    },
+    "8200.jpg vs 3408.jpg": {
+        "global_distance": 108.5842734617087
+    },
+    "8200.jpg vs 8116.jpg": {
+        "global_distance": 60.5201595326616
+    },
+    "8200.jpg vs 3486.jpg": {
+        "global_distance": 115.74135244982362
+    },
+    "8200.jpg vs 1468.jpg": {
+        "global_distance": 95.36285092427408
+    },
+    "8200.jpg vs 1479.jpg": {
+        "global_distance": 108.80200765915068
+    },
+    "8200.jpg vs 1484.jpg": {
+        "global_distance": 97.65941144018596
+    },
+    "8200.jpg vs 1488.jpg": {
+        "global_distance": 119.86296967797253
+    },
+    "8200.jpg vs 3448.jpg": {
+        "global_distance": 107.9048702077837
+    },
+    "8200.jpg vs 1472.jpg": {
+        "global_distance": 101.84229482308132
+    },
+    "8200.jpg vs 8185.jpg": {
+        "global_distance": 71.48833082322315
+    },
+    "8200.jpg vs 3402.jpg": {
+        "global_distance": 111.28612200837014
+    },
+    "8200.jpg vs 8186.jpg": {
+        "global_distance": 81.37027944930918
+    },
+    "8200.jpg vs 8965.jpg": {
+        "global_distance": 91.83231590932985
+    },
+    "8990.jpg vs 3409.jpg": {
+        "global_distance": 113.93458803947509
+    },
+    "8990.jpg vs 3408.jpg": {
+        "global_distance": 123.97804828792744
+    },
+    "8990.jpg vs 8116.jpg": {
+        "global_distance": 79.75961102402891
+    },
+    "8990.jpg vs 3486.jpg": {
+        "global_distance": 101.31057380279738
+    },
+    "8990.jpg vs 1468.jpg": {
+        "global_distance": 97.61124206761761
+    },
+    "8990.jpg vs 1479.jpg": {
+        "global_distance": 113.48840749724607
+    },
+    "8990.jpg vs 1484.jpg": {
+        "global_distance": 101.79331658377136
+    },
+    "8990.jpg vs 1488.jpg": {
+        "global_distance": 112.05978136554786
+    },
+    "8990.jpg vs 3448.jpg": {
+        "global_distance": 116.0925142548432
+    },
+    "8990.jpg vs 1472.jpg": {
+        "global_distance": 111.40650383810438
+    },
+    "8990.jpg vs 8185.jpg": {
+        "global_distance": 93.89411954460115
+    },
+    "8990.jpg vs 3402.jpg": {
+        "global_distance": 104.8849108326997
+    },
+    "8990.jpg vs 8186.jpg": {
+        "global_distance": 86.6605382790057
+    },
+    "8990.jpg vs 8965.jpg": {
+        "global_distance": 75.31791565383656
+    },
+    "3409.jpg vs 3408.jpg": {
+        "global_distance": 104.0464623937499
+    },
+    "3409.jpg vs 8116.jpg": {
+        "global_distance": 118.77411246173318
+    },
+    "3409.jpg vs 3486.jpg": {
+        "global_distance": 81.49586410687645
+    },
+    "3409.jpg vs 1468.jpg": {
+        "global_distance": 105.98384663928958
+    },
+    "3409.jpg vs 1479.jpg": {
+        "global_distance": 98.48684764163666
+    },
+    "3409.jpg vs 1484.jpg": {
+        "global_distance": 100.23021194059075
+    },
+    "3409.jpg vs 1488.jpg": {
+        "global_distance": 102.37642152484919
+    },
+    "3409.jpg vs 3448.jpg": {
+        "global_distance": 100.43227842467837
+    },
+    "3409.jpg vs 1472.jpg": {
+        "global_distance": 110.8875068480799
+    },
+    "3409.jpg vs 8185.jpg": {
+        "global_distance": 120.18385860641601
+    },
+    "3409.jpg vs 3402.jpg": {
+        "global_distance": 80.58610111958718
+    },
+    "3409.jpg vs 8186.jpg": {
+        "global_distance": 112.67099446965818
+    },
+    "3409.jpg vs 8965.jpg": {
+        "global_distance": 106.7864810086183
+    },
+    "3408.jpg vs 8116.jpg": {
+        "global_distance": 118.35825134650527
+    },
+    "3408.jpg vs 3486.jpg": {
+        "global_distance": 103.66891204430125
+    },
+    "3408.jpg vs 1468.jpg": {
+        "global_distance": 103.02846587273802
+    },
+    "3408.jpg vs 1479.jpg": {
+        "global_distance": 91.29454843241095
+    },
+    "3408.jpg vs 1484.jpg": {
+        "global_distance": 96.11289090866794
+    },
+    "3408.jpg vs 1488.jpg": {
+        "global_distance": 104.47955764159965
+    },
+    "3408.jpg vs 3448.jpg": {
+        "global_distance": 92.4842224367966
+    },
+    "3408.jpg vs 1472.jpg": {
+        "global_distance": 97.81483967429052
+    },
+    "3408.jpg vs 8185.jpg": {
+        "global_distance": 107.0145398907424
+    },
+    "3408.jpg vs 3402.jpg": {
+        "global_distance": 94.82942263991205
+    },
+    "3408.jpg vs 8186.jpg": {
+        "global_distance": 116.96971881331821
+    },
+    "3408.jpg vs 8965.jpg": {
+        "global_distance": 124.39733566356936
+    },
+    "8116.jpg vs 3486.jpg": {
+        "global_distance": 114.1372785453152
+    },
+    "8116.jpg vs 1468.jpg": {
+        "global_distance": 97.80059695483811
+    },
+    "8116.jpg vs 1479.jpg": {
+        "global_distance": 113.66570378696592
+    },
+    "8116.jpg vs 1484.jpg": {
+        "global_distance": 101.22565609669675
+    },
+    "8116.jpg vs 1488.jpg": {
+        "global_distance": 121.53082228642694
+    },
+    "8116.jpg vs 3448.jpg": {
+        "global_distance": 113.75308409046085
+    },
+    "8116.jpg vs 1472.jpg": {
+        "global_distance": 107.08134096753979
+    },
+    "8116.jpg vs 8185.jpg": {
+        "global_distance": 75.55878048517647
+    },
+    "8116.jpg vs 3402.jpg": {
+        "global_distance": 112.87974989031134
+    },
+    "8116.jpg vs 8186.jpg": {
+        "global_distance": 79.60479365206689
+    },
+    "8116.jpg vs 8965.jpg": {
+        "global_distance": 85.44072869142221
+    },
+    "3486.jpg vs 1468.jpg": {
+        "global_distance": 99.65507368815811
+    },
+    "3486.jpg vs 1479.jpg": {
+        "global_distance": 93.62416706378797
+    },
+    "3486.jpg vs 1484.jpg": {
+        "global_distance": 92.49256576616939
+    },
+    "3486.jpg vs 1488.jpg": {
+        "global_distance": 91.09845005430935
+    },
+    "3486.jpg vs 3448.jpg": {
+        "global_distance": 95.06386956302718
+    },
+    "3486.jpg vs 1472.jpg": {
+        "global_distance": 110.21055671425273
+    },
+    "3486.jpg vs 8185.jpg": {
+        "global_distance": 120.09038094071545
+    },
+    "3486.jpg vs 3402.jpg": {
+        "global_distance": 62.26574131511574
+    },
+    "3486.jpg vs 8186.jpg": {
+        "global_distance": 105.30311797002746
+    },
+    "3486.jpg vs 8965.jpg": {
+        "global_distance": 90.26734108629203
+    },
+    "1468.jpg vs 1479.jpg": {
+        "global_distance": 99.93996689159347
+    },
+    "1468.jpg vs 1484.jpg": {
+        "global_distance": 96.59623945422537
+    },
+    "1468.jpg vs 1488.jpg": {
+        "global_distance": 106.63596018457463
+    },
+    "1468.jpg vs 3448.jpg": {
+        "global_distance": 102.3540562486603
+    },
+    "1468.jpg vs 1472.jpg": {
+        "global_distance": 101.70611971533798
+    },
+    "1468.jpg vs 8185.jpg": {
+        "global_distance": 98.81904327388203
+    },
+    "1468.jpg vs 3402.jpg": {
+        "global_distance": 96.29857069059615
+    },
+    "1468.jpg vs 8186.jpg": {
+        "global_distance": 99.67586143357461
+    },
+    "1468.jpg vs 8965.jpg": {
+        "global_distance": 99.16764149896655
+    },
+    "1479.jpg vs 1484.jpg": {
+        "global_distance": 95.22687177509297
+    },
+    "1479.jpg vs 1488.jpg": {
+        "global_distance": 100.98117902353658
+    },
+    "1479.jpg vs 3448.jpg": {
+        "global_distance": 94.55567979905236
+    },
+    "1479.jpg vs 1472.jpg": {
+        "global_distance": 99.64465664046081
+    },
+    "1479.jpg vs 8185.jpg": {
+        "global_distance": 109.27503723534795
+    },
+    "1479.jpg vs 3402.jpg": {
+        "global_distance": 88.04923965046515
+    },
+    "1479.jpg vs 8186.jpg": {
+        "global_distance": 110.16748482098674
+    },
+    "1479.jpg vs 8965.jpg": {
+        "global_distance": 111.37678888585114
+    },
+    "1484.jpg vs 1488.jpg": {
+        "global_distance": 101.91523521835124
+    },
+    "1484.jpg vs 3448.jpg": {
+        "global_distance": 97.04696480534042
+    },
+    "1484.jpg vs 1472.jpg": {
+        "global_distance": 100.39273244433085
+    },
+    "1484.jpg vs 8185.jpg": {
+        "global_distance": 100.96270095203518
+    },
+    "1484.jpg vs 3402.jpg": {
+        "global_distance": 88.76537252295697
+    },
+    "1484.jpg vs 8186.jpg": {
+        "global_distance": 101.4040270174138
+    },
+    "1484.jpg vs 8965.jpg": {
+        "global_distance": 100.72738761524231
+    },
+    "1488.jpg vs 3448.jpg": {
+        "global_distance": 104.03234454380555
+    },
+    "1488.jpg vs 1472.jpg": {
+        "global_distance": 110.34424787690462
+    },
+    "1488.jpg vs 8185.jpg": {
+        "global_distance": 120.98531601485155
+    },
+    "1488.jpg vs 3402.jpg": {
+        "global_distance": 89.53710315570069
+    },
+    "1488.jpg vs 8186.jpg": {
+        "global_distance": 115.87878480559404
+    },
+    "1488.jpg vs 8965.jpg": {
+        "global_distance": 108.27379659661615
+    },
+    "3448.jpg vs 1472.jpg": {
+        "global_distance": 102.46269155689532
+    },
+    "3448.jpg vs 8185.jpg": {
+        "global_distance": 109.15087734262346
+    },
+    "3448.jpg vs 3402.jpg": {
+        "global_distance": 89.32422756089997
+    },
+    "3448.jpg vs 8186.jpg": {
+        "global_distance": 111.81165030377568
+    },
+    "3448.jpg vs 8965.jpg": {
+        "global_distance": 113.69509906125704
+    },
+    "1472.jpg vs 8185.jpg": {
+        "global_distance": 103.11132227593384
+    },
+    "1472.jpg vs 3402.jpg": {
+        "global_distance": 104.4066719940694
+    },
+    "1472.jpg vs 8186.jpg": {
+        "global_distance": 108.38018322364233
+    },
+    "1472.jpg vs 8965.jpg": {
+        "global_distance": 113.79122273282105
+    },
+    "8185.jpg vs 3402.jpg": {
+        "global_distance": 115.01833324508057
+    },
+    "8185.jpg vs 8186.jpg": {
+        "global_distance": 90.40869258019872
+    },
+    "8185.jpg vs 8965.jpg": {
+        "global_distance": 101.00177364537456
+    },
+    "3402.jpg vs 8186.jpg": {
+        "global_distance": 105.82167123889512
+    },
+    "3402.jpg vs 8965.jpg": {
+        "global_distance": 94.7380298723433
+    },
+    "8186.jpg vs 8965.jpg": {
+        "global_distance": 89.24747950771689
+    }
+}

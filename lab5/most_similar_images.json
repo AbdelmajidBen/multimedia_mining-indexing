@@ -1,0 +1,82 @@
+{
+    "8982.jpg": {
+        "similar_image": "8965.jpg",
+        "distance": 73.35574908847197
+    },
+    "8189.jpg": {
+        "similar_image": "8200.jpg",
+        "distance": 74.76659182281173
+    },
+    "8994.jpg": {
+        "similar_image": "8990.jpg",
+        "distance": 75.66107628429808
+    },
+    "8980.jpg": {
+        "similar_image": "8990.jpg",
+        "distance": 84.21337418725764
+    },
+    "8200.jpg": {
+        "similar_image": "8116.jpg",
+        "distance": 60.5201595326616
+    },
+    "8990.jpg": {
+        "similar_image": "8982.jpg",
+        "distance": 73.97332739103537
+    },
+    "3409.jpg": {
+        "similar_image": "3402.jpg",
+        "distance": 80.58610111958718
+    },
+    "3408.jpg": {
+        "similar_image": "1479.jpg",
+        "distance": 91.29454843241095
+    },
+    "8116.jpg": {
+        "similar_image": "8200.jpg",
+        "distance": 60.5201595326616
+    },
+    "3486.jpg": {
+        "similar_image": "3402.jpg",
+        "distance": 62.26574131511574
+    },
+    "1468.jpg": {
+        "similar_image": "8200.jpg",
+        "distance": 95.36285092427408
+    },
+    "1479.jpg": {
+        "similar_image": "3402.jpg",
+        "distance": 88.04923965046515
+    },
+    "1484.jpg": {
+        "similar_image": "3402.jpg",
+        "distance": 88.76537252295697
+    },
+    "1488.jpg": {
+        "similar_image": "3402.jpg",
+        "distance": 89.53710315570069
+    },
+    "3448.jpg": {
+        "similar_image": "3402.jpg",
+        "distance": 89.32422756089997
+    },
+    "1472.jpg": {
+        "similar_image": "3408.jpg",
+        "distance": 97.81483967429052
+    },
+    "8185.jpg": {
+        "similar_image": "8200.jpg",
+        "distance": 71.48833082322315
+    },
+    "3402.jpg": {
+        "similar_image": "3486.jpg",
+        "distance": 62.26574131511574
+    },
+    "8186.jpg": {
+        "similar_image": "8116.jpg",
+        "distance": 79.60479365206689
+    },
+    "8965.jpg": {
+        "similar_image": "8982.jpg",
+        "distance": 73.35574908847197
+    }
+}
