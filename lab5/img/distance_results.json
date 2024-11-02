@@ -1,0 +1,842 @@
+{
+    "8982.jpg vs 8189.jpg": {
+        "euclidean_distance_colors": 86.92745626705768,
+        "mean_distance_colors": 47.357142857142854,
+        "cosine_distance_colors": 0.028574500620492715,
+        "jaccard_distance_histogram": 0.8487312558295267,
+        "global_distance": 33.79047622016264
+    },
+    "8982.jpg vs 8994.jpg": {
+        "euclidean_distance_colors": 45.29426237484867,
+        "mean_distance_colors": 25.23809523809523,
+        "cosine_distance_colors": 0.007020778391675808,
+        "jaccard_distance_histogram": 0.36641591846639165,
+        "global_distance": 17.72644857745049
+    },
+    "8982.jpg vs 8980.jpg": {
+        "euclidean_distance_colors": 50.20063916262025,
+        "mean_distance_colors": 24.882539682539687,
+        "cosine_distance_colors": 0.020802053685279986,
+        "jaccard_distance_histogram": 0.4586903905278995,
+        "global_distance": 18.89066782234328
+    },
+    "8982.jpg vs 8990.jpg": {
+        "euclidean_distance_colors": 25.82436754663458,
+        "mean_distance_colors": 12.380952380952381,
+        "cosine_distance_colors": 0.0023202832835738096,
+        "jaccard_distance_histogram": 0.1918502033612156,
+        "global_distance": 9.599872603557937
+    },
+    "8982.jpg vs 3409.jpg": {
+        "euclidean_distance_colors": 114.86305066540443,
+        "mean_distance_colors": 55.42857142857142,
+        "cosine_distance_colors": 0.21372795737736938,
+        "jaccard_distance_histogram": 0.7842097287467799,
+        "global_distance": 42.822389945025
+    },
+    "8982.jpg vs 8116.jpg": {
+        "euclidean_distance_colors": 74.71667573342019,
+        "mean_distance_colors": 34.285714285714285,
+        "cosine_distance_colors": 0.017971279067093726,
+        "jaccard_distance_histogram": 0.6670174175504666,
+        "global_distance": 27.42184467893801
+    },
+    "8982.jpg vs 3486.jpg": {
+        "euclidean_distance_colors": 115.08130857626344,
+        "mean_distance_colors": 55.02197802197802,
+        "cosine_distance_colors": 0.24313946687962318,
+        "jaccard_distance_histogram": 0.8189473684210526,
+        "global_distance": 42.79134335838553
+    },
+    "8982.jpg vs 1468.jpg": {
+        "euclidean_distance_colors": 105.22182593483741,
+        "mean_distance_colors": 49.80952380952382,
+        "cosine_distance_colors": 0.07275666051230334,
+        "jaccard_distance_histogram": 0.7659351594825329,
+        "global_distance": 38.967510391089014
+    },
+    "8982.jpg vs 1479.jpg": {
+        "euclidean_distance_colors": 130.74591732807255,
+        "mean_distance_colors": 66.11904761904762,
+        "cosine_distance_colors": 0.18315213150020337,
+        "jaccard_distance_histogram": 0.8573432323281178,
+        "global_distance": 49.47636507773712
+    },
+    "8982.jpg vs 1484.jpg": {
+        "euclidean_distance_colors": 103.59827238335747,
+        "mean_distance_colors": 50.57142857142858,
+        "cosine_distance_colors": 0.1055253092310332,
+        "jaccard_distance_histogram": 0.8075005693752056,
+        "global_distance": 38.77068170834807
+    },
+    "8982.jpg vs 1488.jpg": {
+        "euclidean_distance_colors": 114.47566552689855,
+        "mean_distance_colors": 61.78388278388278,
+        "cosine_distance_colors": 0.19151433248914396,
+        "jaccard_distance_histogram": 0.7828571428571429,
+        "global_distance": 44.308479946531904
+    },
+    "8982.jpg vs 3448.jpg": {
+        "euclidean_distance_colors": 133.3164967260981,
+        "mean_distance_colors": 64.92063492063492,
+        "cosine_distance_colors": 0.1567558621702858,
+        "jaccard_distance_histogram": 0.8410535439137135,
+        "global_distance": 49.808735263204255
+    },
+    "8982.jpg vs 1472.jpg": {
+        "euclidean_distance_colors": 135.27699524374742,
+        "mean_distance_colors": 60.94920634920635,
+        "cosine_distance_colors": 0.11414938400761843,
+        "jaccard_distance_histogram": 0.8007473841554559,
+        "global_distance": 49.28527459027921
+    },
+    "8982.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 113.73404799561735,
+        "mean_distance_colors": 57.88095238095239,
+        "cosine_distance_colors": 0.20476721438504308,
+        "jaccard_distance_histogram": 0.9111326771107722,
+        "global_distance": 43.182725067016385
+    },
+    "8982.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 25.897462644602303,
+        "mean_distance_colors": 11.40476190476191,
+        "cosine_distance_colors": 0.007295892571826168,
+        "jaccard_distance_histogram": 0.518951536865925,
+        "global_distance": 9.457117994700491
+    },
+    "8189.jpg vs 8994.jpg": {
+        "euclidean_distance_colors": 51.699739469599756,
+        "mean_distance_colors": 24.2904761904762,
+        "cosine_distance_colors": 0.015481709881588257,
+        "jaccard_distance_histogram": 0.7416217911852355,
+        "global_distance": 19.186829790285696
+    },
+    "8189.jpg vs 8980.jpg": {
+        "euclidean_distance_colors": 42.98157834581584,
+        "mean_distance_colors": 22.47460317460317,
+        "cosine_distance_colors": 0.002841332363756277,
+        "jaccard_distance_histogram": 0.7409964692036093,
+        "global_distance": 16.550004830496594
+    },
+    "8189.jpg vs 8990.jpg": {
+        "euclidean_distance_colors": 73.93195299374544,
+        "mean_distance_colors": 34.976190476190474,
+        "cosine_distance_colors": 0.03171218219612193,
+        "jaccard_distance_histogram": 0.805449401955432,
+        "global_distance": 27.436326263521863
+    },
+    "8189.jpg vs 3409.jpg": {
+        "euclidean_distance_colors": 115.77989762423161,
+        "mean_distance_colors": 52.452380952380956,
+        "cosine_distance_colors": 0.09920881883647292,
+        "jaccard_distance_histogram": 0.4469651489778508,
+        "global_distance": 42.194613136106724
+    },
+    "8189.jpg vs 8116.jpg": {
+        "euclidean_distance_colors": 49.02024779494235,
+        "mean_distance_colors": 28.02380952380952,
+        "cosine_distance_colors": 0.020010010536081757,
+        "jaccard_distance_histogram": 0.5667045752777535,
+        "global_distance": 19.407692976141426
+    },
+    "8189.jpg vs 3486.jpg": {
+        "euclidean_distance_colors": 137.46362716157455,
+        "mean_distance_colors": 56.17032967032967,
+        "cosine_distance_colors": 0.12690553829180418,
+        "jaccard_distance_histogram": 0.5130201093503846,
+        "global_distance": 48.5684706198866
+    },
+    "8189.jpg vs 1468.jpg": {
+        "euclidean_distance_colors": 47.83746930375557,
+        "mean_distance_colors": 26.690476190476193,
+        "cosine_distance_colors": 0.01902381429123101,
+        "jaccard_distance_histogram": 0.6875869025873116,
+        "global_distance": 18.808639052777576
+    },
+    "8189.jpg vs 1479.jpg": {
+        "euclidean_distance_colors": 96.48680781139282,
+        "mean_distance_colors": 46.23809523809524,
+        "cosine_distance_colors": 0.08017599155411714,
+        "jaccard_distance_histogram": 0.5304631123831562,
+        "global_distance": 35.833885538356334
+    },
+    "8189.jpg vs 1484.jpg": {
+        "euclidean_distance_colors": 64.41530588806563,
+        "mean_distance_colors": 30.6904761904762,
+        "cosine_distance_colors": 0.033353540505324575,
+        "jaccard_distance_histogram": 0.2962412401783818,
+        "global_distance": 23.858844214806386
+    },
+    "8189.jpg vs 1488.jpg": {
+        "euclidean_distance_colors": 109.22081413166903,
+        "mean_distance_colors": 41.90293040293041,
+        "cosine_distance_colors": 0.09530080287404841,
+        "jaccard_distance_histogram": 0.7367447120203552,
+        "global_distance": 37.988947512373464
+    },
+    "8189.jpg vs 3448.jpg": {
+        "euclidean_distance_colors": 86.2110931669122,
+        "mean_distance_colors": 45.03968253968255,
+        "cosine_distance_colors": 0.062333781871592664,
+        "jaccard_distance_histogram": 0.5510288308472377,
+        "global_distance": 32.966034579828396
+    },
+    "8189.jpg vs 1472.jpg": {
+        "euclidean_distance_colors": 70.67960044006578,
+        "mean_distance_colors": 39.68412698412698,
+        "cosine_distance_colors": 0.036386280629739365,
+        "jaccard_distance_histogram": 0.5982603735919008,
+        "global_distance": 27.749593519603604
+    },
+    "8189.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 113.88514622466026,
+        "mean_distance_colors": 48.33333333333334,
+        "cosine_distance_colors": 0.0978751119291148,
+        "jaccard_distance_histogram": 0.5067469057294414,
+        "global_distance": 40.70577539391304
+    },
+    "8189.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 93.80684671065283,
+        "mean_distance_colors": 52.047619047619044,
+        "cosine_distance_colors": 0.013990863990560265,
+        "jaccard_distance_histogram": 0.761436731333299,
+        "global_distance": 36.65747333839894
+    },
+    "8994.jpg vs 8980.jpg": {
+        "euclidean_distance_colors": 24.73629811520803,
+        "mean_distance_colors": 13.55555555555555,
+        "cosine_distance_colors": 0.006361378209623791,
+        "jaccard_distance_histogram": 0.2909987669543773,
+        "global_distance": 9.647303453981895
+    },
+    "8994.jpg vs 8990.jpg": {
+        "euclidean_distance_colors": 24.667561116344096,
+        "mean_distance_colors": 12.857142857142852,
+        "cosine_distance_colors": 0.003968538075111994,
+        "jaccard_distance_histogram": 0.23855268568011068,
+        "global_distance": 9.441806299310544
+    },
+    "8994.jpg vs 3409.jpg": {
+        "euclidean_distance_colors": 113.42298834766383,
+        "mean_distance_colors": 60.82857142857142,
+        "cosine_distance_colors": 0.15243082140181974,
+        "jaccard_distance_histogram": 0.6801019988484001,
+        "global_distance": 43.77102314912136
+    },
+    "8994.jpg vs 8116.jpg": {
+        "euclidean_distance_colors": 59.30607911848636,
+        "mean_distance_colors": 31.695238095238096,
+        "cosine_distance_colors": 0.028476999556436233,
+        "jaccard_distance_histogram": 0.4704013218518637,
+        "global_distance": 22.87504888378319
+    },
+    "8994.jpg vs 3486.jpg": {
+        "euclidean_distance_colors": 124.00254435259447,
+        "mean_distance_colors": 64.04102564102563,
+        "cosine_distance_colors": 0.1747356823139784,
+        "jaccard_distance_histogram": 0.7350959602737888,
+        "global_distance": 47.23835040905197
+    },
+    "8994.jpg vs 1468.jpg": {
+        "euclidean_distance_colors": 69.654327260569,
+        "mean_distance_colors": 32.895238095238085,
+        "cosine_distance_colors": 0.03747171022965323,
+        "jaccard_distance_histogram": 0.6077348066298343,
+        "global_distance": 25.798692968166645
+    },
+    "8994.jpg vs 1479.jpg": {
+        "euclidean_distance_colors": 110.83982651942911,
+        "mean_distance_colors": 52.44285714285714,
+        "cosine_distance_colors": 0.12568068782392416,
+        "jaccard_distance_histogram": 0.7437185929648241,
+        "global_distance": 41.03802073576875
+    },
+    "8994.jpg vs 1484.jpg": {
+        "euclidean_distance_colors": 78.24346357259968,
+        "mean_distance_colors": 36.89523809523809,
+        "cosine_distance_colors": 0.06272852909078441,
+        "jaccard_distance_histogram": 0.7222689189555598,
+        "global_distance": 28.980924778971033
+    },
+    "8994.jpg vs 1488.jpg": {
+        "euclidean_distance_colors": 105.27422741858464,
+        "mean_distance_colors": 50.16923076923077,
+        "cosine_distance_colors": 0.12949791733163574,
+        "jaccard_distance_histogram": 0.7026196636481241,
+        "global_distance": 39.0688939421988
+    },
+    "8994.jpg vs 3448.jpg": {
+        "euclidean_distance_colors": 107.54447142151628,
+        "mean_distance_colors": 51.24444444444443,
+        "cosine_distance_colors": 0.10418951100993423,
+        "jaccard_distance_histogram": 0.7790290671130726,
+        "global_distance": 39.91803361102093
+    },
+    "8994.jpg vs 1472.jpg": {
+        "euclidean_distance_colors": 101.66212011691799,
+        "mean_distance_colors": 45.88888888888888,
+        "cosine_distance_colors": 0.0703165443870657,
+        "jaccard_distance_histogram": 0.7278541226215645,
+        "global_distance": 37.08729491820387
+    },
+    "8994.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 109.94073449836878,
+        "mean_distance_colors": 56.70952380952381,
+        "cosine_distance_colors": 0.14256986068044697,
+        "jaccard_distance_histogram": 0.8067154541541111,
+        "global_distance": 41.899885905681785
+    },
+    "8994.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 55.49015172781122,
+        "mean_distance_colors": 29.928571428571427,
+        "cosine_distance_colors": 3.821436510487164e-05,
+        "jaccard_distance_histogram": 0.5267765029543252,
+        "global_distance": 21.486384468425516
+    },
+    "8980.jpg vs 8990.jpg": {
+        "euclidean_distance_colors": 41.08543556873915,
+        "mean_distance_colors": 14.822222222222221,
+        "cosine_distance_colors": 0.0196567160749197,
+        "jaccard_distance_histogram": 0.36624601303564,
+        "global_distance": 14.073390130017984
+    },
+    "8980.jpg vs 3409.jpg": {
+        "euclidean_distance_colors": 92.40889292737735,
+        "mean_distance_colors": 47.27301587301588,
+        "cosine_distance_colors": 0.10494000778982426,
+        "jaccard_distance_histogram": 0.6099335835980364,
+        "global_distance": 35.09919559794527
+    },
+    "8980.jpg vs 8116.jpg": {
+        "euclidean_distance_colors": 60.281105292859365,
+        "mean_distance_colors": 27.73015873015873,
+        "cosine_distance_colors": 0.02652855780416119,
+        "jaccard_distance_histogram": 0.5351915528101512,
+        "global_distance": 22.1432460334081
+    },
+    "8980.jpg vs 3486.jpg": {
+        "euclidean_distance_colors": 106.22519168162279,
+        "mean_distance_colors": 50.48547008547009,
+        "cosine_distance_colors": 0.12821519467362708,
+        "jaccard_distance_histogram": 0.7189343482397716,
+        "global_distance": 39.38945282750157
+    },
+    "8980.jpg vs 1468.jpg": {
+        "euclidean_distance_colors": 55.90955483631992,
+        "mean_distance_colors": 26.984126984126984,
+        "cosine_distance_colors": 0.016809180431202386,
+        "jaccard_distance_histogram": 0.5628983562562898,
+        "global_distance": 20.868347339283595
+    },
+    "8980.jpg vs 1479.jpg": {
+        "euclidean_distance_colors": 90.44430628670077,
+        "mean_distance_colors": 46.53174603174603,
+        "cosine_distance_colors": 0.08358422106410512,
+        "jaccard_distance_histogram": 0.6908093430495137,
+        "global_distance": 34.43761147064011
+    },
+    "8980.jpg vs 1484.jpg": {
+        "euclidean_distance_colors": 58.71969117356864,
+        "mean_distance_colors": 30.984126984126988,
+        "cosine_distance_colors": 0.033823121296353786,
+        "jaccard_distance_histogram": 0.6734975369458128,
+        "global_distance": 22.602784703984447
+    },
+    "8980.jpg vs 1488.jpg": {
+        "euclidean_distance_colors": 86.78099589874601,
+        "mean_distance_colors": 42.1965811965812,
+        "cosine_distance_colors": 0.09240080246745885,
+        "jaccard_distance_histogram": 0.6155306298533219,
+        "global_distance": 32.421377131911996
+    },
+    "8980.jpg vs 3448.jpg": {
+        "euclidean_distance_colors": 88.31745769287821,
+        "mean_distance_colors": 45.333333333333336,
+        "cosine_distance_colors": 0.0655307115621897,
+        "jaccard_distance_histogram": 0.6762910410823296,
+        "global_distance": 33.598153194714016
+    },
+    "8980.jpg vs 1472.jpg": {
+        "euclidean_distance_colors": 85.90995285762877,
+        "mean_distance_colors": 39.977777777777774,
+        "cosine_distance_colors": 0.03857597682474467,
+        "jaccard_distance_histogram": 0.6177171572146447,
+        "global_distance": 31.636005942361482
+    },
+    "8980.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 89.96710522560865,
+        "mean_distance_colors": 43.153968253968266,
+        "cosine_distance_colors": 0.09957180683056666,
+        "jaccard_distance_histogram": 0.8056569343065694,
+        "global_distance": 33.506575555178514
+    },
+    "8980.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 51.90178868723352,
+        "mean_distance_colors": 29.57301587301588,
+        "cosine_distance_colors": 0.005479130662588649,
+        "jaccard_distance_histogram": 0.5982509369980368,
+        "global_distance": 20.519633656977508
+    },
+    "8990.jpg vs 3409.jpg": {
+        "euclidean_distance_colors": 120.54277757082669,
+        "mean_distance_colors": 62.095238095238095,
+        "cosine_distance_colors": 0.2027055411386568,
+        "jaccard_distance_histogram": 0.7433300266276823,
+        "global_distance": 45.89601280845778
+    },
+    "8990.jpg vs 8116.jpg": {
+        "euclidean_distance_colors": 68.09065086114154,
+        "mean_distance_colors": 37.38095238095237,
+        "cosine_distance_colors": 0.031101160069626266,
+        "jaccard_distance_histogram": 0.5852583318638689,
+        "global_distance": 26.521990683506854
+    },
+    "8990.jpg vs 3486.jpg": {
+        "euclidean_distance_colors": 125.00659154218262,
+        "mean_distance_colors": 65.3076923076923,
+        "cosine_distance_colors": 0.2266891677727968,
+        "jaccard_distance_histogram": 0.7816644690917552,
+        "global_distance": 47.830659371684874
+    },
+    "8990.jpg vs 1468.jpg": {
+        "euclidean_distance_colors": 92.24966124599048,
+        "mean_distance_colors": 41.333333333333336,
+        "cosine_distance_colors": 0.06521381779904556,
+        "jaccard_distance_histogram": 0.698519664162616,
+        "global_distance": 33.586682015321365
+    },
+    "8990.jpg vs 1479.jpg": {
+        "euclidean_distance_colors": 127.063799658571,
+        "mean_distance_colors": 60.88095238095239,
+        "cosine_distance_colors": 0.17190247037285178,
+        "jaccard_distance_histogram": 0.8097637160562245,
+        "global_distance": 47.23160455648812
+    },
+    "8990.jpg vs 1484.jpg": {
+        "euclidean_distance_colors": 96.62852285206179,
+        "mean_distance_colors": 45.333333333333336,
+        "cosine_distance_colors": 0.09728847596259105,
+        "jaccard_distance_histogram": 0.7761907235236067,
+        "global_distance": 35.70883384622033
+    },
+    "8990.jpg vs 1488.jpg": {
+        "euclidean_distance_colors": 114.90872006767316,
+        "mean_distance_colors": 56.545787545787555,
+        "cosine_distance_colors": 0.1744603025547945,
+        "jaccard_distance_histogram": 0.7502141911363813,
+        "global_distance": 43.094795526787976
+    },
+    "8990.jpg vs 3448.jpg": {
+        "euclidean_distance_colors": 126.59916873269556,
+        "mean_distance_colors": 59.68253968253968,
+        "cosine_distance_colors": 0.14704511296592637,
+        "jaccard_distance_histogram": 0.8074026360122881,
+        "global_distance": 46.80903904105336
+    },
+    "8990.jpg vs 1472.jpg": {
+        "euclidean_distance_colors": 124.11577928155091,
+        "mean_distance_colors": 54.32698412698412,
+        "cosine_distance_colors": 0.10672140647577943,
+        "jaccard_distance_histogram": 0.7708609947911347,
+        "global_distance": 44.83008645245048
+    },
+    "8990.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 117.63938758002817,
+        "mean_distance_colors": 57.97619047619048,
+        "cosine_distance_colors": 0.1907405894359857,
+        "jaccard_distance_histogram": 0.8711732860633354,
+        "global_distance": 44.169372982929495
+    },
+    "8990.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 42.4122744073949,
+        "mean_distance_colors": 21.690476190476193,
+        "cosine_distance_colors": 0.00458568774441126,
+        "jaccard_distance_histogram": 0.5253473526098384,
+        "global_distance": 16.158170909556336
+    },
+    "3409.jpg vs 8116.jpg": {
+        "euclidean_distance_colors": 143.27755994458266,
+        "mean_distance_colors": 63.57142857142858,
+        "cosine_distance_colors": 0.1984654639748109,
+        "jaccard_distance_histogram": 0.56874963601421,
+        "global_distance": 51.904050904000066
+    },
+    "3409.jpg vs 3486.jpg": {
+        "euclidean_distance_colors": 32.33512048695923,
+        "mean_distance_colors": 17.717948717948715,
+        "cosine_distance_colors": 0.0035631906249682377,
+        "jaccard_distance_histogram": 0.458893584325778,
+        "global_distance": 12.628881494964672
+    },
+    "3409.jpg vs 1468.jpg": {
+        "euclidean_distance_colors": 89.61658693044065,
+        "mean_distance_colors": 41.904761904761905,
+        "cosine_distance_colors": 0.04029831939407058,
+        "jaccard_distance_histogram": 0.6360081604896294,
+        "global_distance": 33.04941382877157
+    },
+    "3409.jpg vs 1479.jpg": {
+        "euclidean_distance_colors": 50.34832749588266,
+        "mean_distance_colors": 28.92857142857143,
+        "cosine_distance_colors": 0.0014796695261944937,
+        "jaccard_distance_histogram": 0.5639560831920021,
+        "global_distance": 19.96058366929307
+    },
+    "3409.jpg vs 1484.jpg": {
+        "euclidean_distance_colors": 62.31093853589825,
+        "mean_distance_colors": 29.71428571428572,
+        "cosine_distance_colors": 0.020605379146341862,
+        "jaccard_distance_histogram": 0.37124006090340045,
+        "global_distance": 23.10426742255843
+    },
+    "3409.jpg vs 1488.jpg": {
+        "euclidean_distance_colors": 25.92704668466257,
+        "mean_distance_colors": 10.659340659340657,
+        "cosine_distance_colors": 0.006665420613147455,
+        "jaccard_distance_histogram": 0.6049046321525886,
+        "global_distance": 9.29948934919224
+    },
+    "3409.jpg vs 3448.jpg": {
+        "euclidean_distance_colors": 68.1977307261061,
+        "mean_distance_colors": 38.955555555555556,
+        "cosine_distance_colors": 0.004884084141404954,
+        "jaccard_distance_histogram": 0.43004982752012266,
+        "global_distance": 26.897055048330795
+    },
+    "3409.jpg vs 1472.jpg": {
+        "euclidean_distance_colors": 94.7710675158576,
+        "mean_distance_colors": 52.044444444444444,
+        "cosine_distance_colors": 0.01680629488039309,
+        "jaccard_distance_histogram": 0.5163899788711138,
+        "global_distance": 36.83717705851338
+    },
+    "3409.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 10.269083777662582,
+        "mean_distance_colors": 4.357142857142851,
+        "cosine_distance_colors": 0.001438189038126203,
+        "jaccard_distance_histogram": 0.6352347471081878,
+        "global_distance": 3.815724892737937
+    },
+    "3409.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 93.29033569825911,
+        "mean_distance_colors": 44.21428571428572,
+        "cosine_distance_colors": 0.14939433115139178,
+        "jaccard_distance_histogram": 0.7058285837186794,
+        "global_distance": 34.58996108185373
+    },
+    "8116.jpg vs 3486.jpg": {
+        "euclidean_distance_colors": 158.37593003085573,
+        "mean_distance_colors": 63.21245421245421,
+        "cosine_distance_colors": 0.23908700607405908,
+        "jaccard_distance_histogram": 0.7068715413957987,
+        "global_distance": 55.633585697694954
+    },
+    "8116.jpg vs 1468.jpg": {
+        "euclidean_distance_colors": 94.95235110091711,
+        "mean_distance_colors": 54.714285714285715,
+        "cosine_distance_colors": 0.07711056699871688,
+        "jaccard_distance_histogram": 0.5701725725487867,
+        "global_distance": 37.57847998868758
+    },
+    "8116.jpg vs 1479.jpg": {
+        "euclidean_distance_colors": 137.36078295451563,
+        "mean_distance_colors": 74.26190476190476,
+        "cosine_distance_colors": 0.17366332550973507,
+        "jaccard_distance_histogram": 0.6199639722071313,
+        "global_distance": 53.10407875353431
+    },
+    "8116.jpg vs 1484.jpg": {
+        "euclidean_distance_colors": 106.01073299531554,
+        "mean_distance_colors": 58.71428571428572,
+        "cosine_distance_colors": 0.10322206947237356,
+        "jaccard_distance_histogram": 0.5694502228826152,
+        "global_distance": 41.34942275048906
+    },
+    "8116.jpg vs 1488.jpg": {
+        "euclidean_distance_colors": 142.39418327142963,
+        "mean_distance_colors": 69.92673992673993,
+        "cosine_distance_colors": 0.19793398930294204,
+        "jaccard_distance_histogram": 0.6691936968646776,
+        "global_distance": 53.2970127210843
+    },
+    "8116.jpg vs 3448.jpg": {
+        "euclidean_distance_colors": 130.57847693803058,
+        "mean_distance_colors": 73.06349206349206,
+        "cosine_distance_colors": 0.14772880426753243,
+        "jaccard_distance_histogram": 0.7351518270715389,
+        "global_distance": 51.131212408215426
+    },
+    "8116.jpg vs 1472.jpg": {
+        "euclidean_distance_colors": 118.68169342296012,
+        "mean_distance_colors": 67.70793650793651,
+        "cosine_distance_colors": 0.10753856536831041,
+        "jaccard_distance_histogram": 0.6925921000132996,
+        "global_distance": 46.79744014906956
+    },
+    "8116.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 143.31118916112413,
+        "mean_distance_colors": 66.02380952380953,
+        "cosine_distance_colors": 0.1996451942801376,
+        "jaccard_distance_histogram": 0.578784210681704,
+        "global_distance": 52.528357022473884
+    },
+    "8116.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 92.20371744243332,
+        "mean_distance_colors": 38.976190476190474,
+        "cosine_distance_colors": 0.02722299535543049,
+        "jaccard_distance_histogram": 0.5908079625292739,
+        "global_distance": 32.94948471912713
+    },
+    "3486.jpg vs 1468.jpg": {
+        "euclidean_distance_colors": 115.00841366238606,
+        "mean_distance_colors": 58.62271062271062,
+        "cosine_distance_colors": 0.0535894232840356,
+        "jaccard_distance_histogram": 0.7289205373037708,
+        "global_distance": 43.60340856142112
+    },
+    "3486.jpg vs 1479.jpg": {
+        "euclidean_distance_colors": 80.97063716459341,
+        "mean_distance_colors": 46.646520146520146,
+        "cosine_distance_colors": 0.005955640061712231,
+        "jaccard_distance_histogram": 0.702529038635802,
+        "global_distance": 32.081410497452765
+    },
+    "3486.jpg vs 1484.jpg": {
+        "euclidean_distance_colors": 89.33657215959443,
+        "mean_distance_colors": 47.43223443223443,
+        "cosine_distance_colors": 0.03162327294382261,
+        "jaccard_distance_histogram": 0.5078842378570072,
+        "global_distance": 34.32707852565742
+    },
+    "3486.jpg vs 1488.jpg": {
+        "euclidean_distance_colors": 46.90295911735736,
+        "mean_distance_colors": 26.230769230769226,
+        "cosine_distance_colors": 0.00440546539273845,
+        "jaccard_distance_histogram": 0.7272486912379039,
+        "global_distance": 18.46634562618931
+    },
+    "3486.jpg vs 3448.jpg": {
+        "euclidean_distance_colors": 98.85790491858259,
+        "mean_distance_colors": 56.67350427350427,
+        "cosine_distance_colors": 0.012117870970215883,
+        "jaccard_distance_histogram": 0.5726739014410247,
+        "global_distance": 39.02905024112453
+    },
+    "3486.jpg vs 1472.jpg": {
+        "euclidean_distance_colors": 124.61444222498997,
+        "mean_distance_colors": 69.76239316239315,
+        "cosine_distance_colors": 0.028353837937440618,
+        "jaccard_distance_histogram": 0.6485302787837952,
+        "global_distance": 48.76342987602609
+    },
+    "3486.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 34.587669438525985,
+        "mean_distance_colors": 19.932234432234427,
+        "cosine_distance_colors": 0.0019965208883048202,
+        "jaccard_distance_histogram": 0.7214369047942046,
+        "global_distance": 13.810834324110731
+    },
+    "3486.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 90.20378534045905,
+        "mean_distance_colors": 43.61721611721612,
+        "cosine_distance_colors": 0.17203018207970455,
+        "jaccard_distance_histogram": 0.7912273951519815,
+        "global_distance": 33.69606475872671
+    },
+    "1468.jpg vs 1479.jpg": {
+        "euclidean_distance_colors": 57.41884245949021,
+        "mean_distance_colors": 30.642857142857142,
+        "cosine_distance_colors": 0.02683219866359854,
+        "jaccard_distance_histogram": 0.597506678539626,
+        "global_distance": 22.171509619887644
+    },
+    "1468.jpg vs 1484.jpg": {
+        "euclidean_distance_colors": 27.70342202394381,
+        "mean_distance_colors": 14.095238095238097,
+        "cosine_distance_colors": 0.0033421150762248386,
+        "jaccard_distance_histogram": 0.658162248355591,
+        "global_distance": 10.615041120653428
+    },
+    "1468.jpg vs 1488.jpg": {
+        "euclidean_distance_colors": 75.3673357474534,
+        "mean_distance_colors": 32.391941391941394,
+        "cosine_distance_colors": 0.03110708382210381,
+        "jaccard_distance_histogram": 0.6791603786527645,
+        "global_distance": 27.117386150467414
+    },
+    "1468.jpg vs 3448.jpg": {
+        "euclidean_distance_colors": 45.22110307439776,
+        "mean_distance_colors": 23.60952380952381,
+        "cosine_distance_colors": 0.01725702502363502,
+        "jaccard_distance_histogram": 0.6370122883515488,
+        "global_distance": 17.371224049324187
+    },
+    "1468.jpg vs 1472.jpg": {
+        "euclidean_distance_colors": 32.4718423286651,
+        "mean_distance_colors": 12.993650793650792,
+        "cosine_distance_colors": 0.00549230301657222,
+        "jaccard_distance_histogram": 0.6155306298533219,
+        "global_distance": 11.521629013796447
+    },
+    "1468.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 84.87677141910274,
+        "mean_distance_colors": 38.6904761904762,
+        "cosine_distance_colors": 0.035591819259608526,
+        "jaccard_distance_histogram": 0.6881576749624185,
+        "global_distance": 31.07274927595024
+    },
+    "1468.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 101.00133864540244,
+        "mean_distance_colors": 54.5,
+        "cosine_distance_colors": 0.0359697320332546,
+        "jaccard_distance_histogram": 0.8031088082901554,
+        "global_distance": 39.08510429643146
+    },
+    "1479.jpg vs 1484.jpg": {
+        "euclidean_distance_colors": 34.08056181869,
+        "mean_distance_colors": 16.547619047619047,
+        "cosine_distance_colors": 0.011430889049346749,
+        "jaccard_distance_histogram": 0.5727231536021749,
+        "global_distance": 12.803083727240143
+    },
+    "1479.jpg vs 1488.jpg": {
+        "euclidean_distance_colors": 38.9864049607898,
+        "mean_distance_colors": 20.41575091575092,
+        "cosine_distance_colors": 0.003954697149542663,
+        "jaccard_distance_histogram": 0.710725257112328,
+        "global_distance": 15.029208957700648
+    },
+    "1479.jpg vs 3448.jpg": {
+        "euclidean_distance_colors": 19.501025614054246,
+        "mean_distance_colors": 10.026984126984123,
+        "cosine_distance_colors": 0.0011653465371324057,
+        "jaccard_distance_histogram": 0.5303736183429251,
+        "global_distance": 7.514887176479606
+    },
+    "1479.jpg vs 1472.jpg": {
+        "euclidean_distance_colors": 49.27542128543543,
+        "mean_distance_colors": 23.11587301587301,
+        "cosine_distance_colors": 0.008928901571118253,
+        "jaccard_distance_histogram": 0.5250290324552289,
+        "global_distance": 18.231313058833695
+    },
+    "1479.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 46.49961597383667,
+        "mean_distance_colors": 26.71428571428572,
+        "cosine_distance_colors": 0.0011654631496036405,
+        "jaccard_distance_histogram": 0.4986177750945314,
+        "global_distance": 18.42842123159163
+    },
+    "1479.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 115.73425753573113,
+        "mean_distance_colors": 54.904761904761905,
+        "cosine_distance_colors": 0.12299451080095936,
+        "jaccard_distance_histogram": 0.8684531934765428,
+        "global_distance": 42.907616786192634
+    },
+    "1484.jpg vs 1488.jpg": {
+        "euclidean_distance_colors": 49.802071108342005,
+        "mean_distance_colors": 21.201465201465208,
+        "cosine_distance_colors": 0.01651109900637804,
+        "jaccard_distance_histogram": 0.660265508892043,
+        "global_distance": 17.92007822942641
+    },
+    "1484.jpg vs 3448.jpg": {
+        "euclidean_distance_colors": 30.046401756340156,
+        "mean_distance_colors": 14.349206349206346,
+        "cosine_distance_colors": 0.005453107822226411,
+        "jaccard_distance_histogram": 0.5330489105591956,
+        "global_distance": 11.23352753098198
+    },
+    "1484.jpg vs 1472.jpg": {
+        "euclidean_distance_colors": 39.242610119353564,
+        "mean_distance_colors": 22.330158730158725,
+        "cosine_distance_colors": 0.0003508070116174933,
+        "jaccard_distance_histogram": 0.5269439089323419,
+        "global_distance": 15.52501589136406
+    },
+    "1484.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 57.98913515408183,
+        "mean_distance_colors": 27.500000000000004,
+        "cosine_distance_colors": 0.01792079280168335,
+        "jaccard_distance_histogram": 0.5557632780655246,
+        "global_distance": 21.515704806237263
+    },
+    "1484.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 93.15909696287731,
+        "mean_distance_colors": 43.30952380952382,
+        "cosine_distance_colors": 0.06073214711607211,
+        "jaccard_distance_histogram": 0.700063446525613,
+        "global_distance": 34.3073540915107
+    },
+    "1488.jpg vs 3448.jpg": {
+        "euclidean_distance_colors": 55.75922951878549,
+        "mean_distance_colors": 30.44273504273504,
+        "cosine_distance_colors": 0.006336218131995031,
+        "jaccard_distance_histogram": 0.7090063824757702,
+        "global_distance": 21.72932679053207
+    },
+    "1488.jpg vs 1472.jpg": {
+        "euclidean_distance_colors": 81.52018082448545,
+        "mean_distance_colors": 43.531623931623926,
+        "cosine_distance_colors": 0.015516220745331988,
+        "jaccard_distance_histogram": 0.4834778316003826,
+        "global_distance": 31.38769970211377
+    },
+    "1488.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 16.075793527654398,
+        "mean_distance_colors": 6.540293040293046,
+        "cosine_distance_colors": 0.0019372061311986322,
+        "jaccard_distance_histogram": 0.7994014216236438,
+        "global_distance": 5.8543562989255715
+    },
+    "1488.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 94.06433913739782,
+        "mean_distance_colors": 50.56959706959706,
+        "cosine_distance_colors": 0.12741489943133277,
+        "jaccard_distance_histogram": 0.7537410034691658,
+        "global_distance": 36.37877302747385
+    },
+    "3448.jpg vs 1472.jpg": {
+        "euclidean_distance_colors": 30.159649275885897,
+        "mean_distance_colors": 13.35555555555556,
+        "cosine_distance_colors": 0.0036608743372124053,
+        "jaccard_distance_histogram": 0.490093078978896,
+        "global_distance": 11.002239696189392
+    },
+    "3448.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 64.36870991659326,
+        "mean_distance_colors": 36.74126984126984,
+        "cosine_distance_colors": 0.0043200606068097835,
+        "jaccard_distance_histogram": 0.7009391191709844,
+        "global_distance": 25.453809734410225
+    },
+    "3448.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 121.61899438787663,
+        "mean_distance_colors": 53.70634920634921,
+        "cosine_distance_colors": 0.10164492852417539,
+        "jaccard_distance_histogram": 0.8218795888399413,
+        "global_distance": 44.06221702789749
+    },
+    "1472.jpg vs 3402.jpg": {
+        "euclidean_distance_colors": 90.85626197536445,
+        "mean_distance_colors": 49.83015873015873,
+        "cosine_distance_colors": 0.01536738607257837,
+        "jaccard_distance_histogram": 0.7109921006828224,
+        "global_distance": 35.353195048069644
+    },
+    "1472.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 129.04559838516397,
+        "mean_distance_colors": 65.63968253968254,
+        "cosine_distance_colors": 0.06810018148903862,
+        "jaccard_distance_histogram": 0.7742724008861049,
+        "global_distance": 48.88191337680541
+    },
+    "3402.jpg vs 8965.jpg": {
+        "euclidean_distance_colors": 92.14739745181552,
+        "mean_distance_colors": 46.666666666666664,
+        "cosine_distance_colors": 0.13996424790414663,
+        "jaccard_distance_histogram": 0.8371622455274522,
+        "global_distance": 34.947797652978444
+    }
+}

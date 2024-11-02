@@ -1,0 +1,1234 @@
+{
+    "8982.jpg": {
+        "8189.jpg": {
+            "euclidean_distance": 0.29891057562089407,
+            "chi_squared_distance": 1.116537086959855,
+            "cosine_similarity": 1.4585816988004154
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.13031390032125978,
+            "chi_squared_distance": 0.24743163495351914,
+            "cosine_similarity": 0.2555870029323857
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.14724746534338853,
+            "chi_squared_distance": 0.2421478747456634,
+            "cosine_similarity": 0.3244783123885515
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.10556597320692418,
+            "chi_squared_distance": 0.2222990069681247,
+            "cosine_similarity": 0.23055514498162843
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.3550013152684527,
+            "chi_squared_distance": 0.9747032181484165,
+            "cosine_similarity": 1.6346490687110804
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.2529522087403634,
+            "chi_squared_distance": 0.7941446406567151,
+            "cosine_similarity": 0.9918058169200719
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.416299222960565,
+            "chi_squared_distance": 1.266393701939878,
+            "cosine_similarity": 1.9890491259237715
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.26571190210494977,
+            "chi_squared_distance": 0.7465269847949283,
+            "cosine_similarity": 1.2053650384482464
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.2635288522131978,
+            "chi_squared_distance": 0.951753140790781,
+            "cosine_similarity": 1.3085910769080429
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.2803484349043818,
+            "chi_squared_distance": 0.9304284906982311,
+            "cosine_similarity": 1.4165587305598937
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.4816163631159502,
+            "chi_squared_distance": 1.0960521341715872,
+            "cosine_similarity": 2.041616712033287
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.3054762133033904,
+            "chi_squared_distance": 1.0164268628950162,
+            "cosine_similarity": 1.6411726942041693
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.29138389549697025,
+            "chi_squared_distance": 0.9736463327965388,
+            "cosine_similarity": 1.5494344892061083
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.36228438414379754,
+            "chi_squared_distance": 1.2922705689543337,
+            "cosine_similarity": 1.7213749174166293
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.21302715387239712,
+            "chi_squared_distance": 0.4945565330698552,
+            "cosine_similarity": 0.7147249424350419
+        }
+    },
+    "8189.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.29891057562089407,
+            "chi_squared_distance": 1.116537086959855,
+            "cosine_similarity": 1.4585816988004154
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.21305665261645396,
+            "chi_squared_distance": 0.6890028945688517,
+            "cosine_similarity": 0.9646993174231362
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.24257477321002324,
+            "chi_squared_distance": 0.811710555452814,
+            "cosine_similarity": 1.2763992087553593
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.24781912748516494,
+            "chi_squared_distance": 0.8800826120426005,
+            "cosine_similarity": 1.159535409465752
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.3020475326936878,
+            "chi_squared_distance": 0.9953838084224118,
+            "cosine_similarity": 1.5036346488591341
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.17545815444222015,
+            "chi_squared_distance": 0.5642071607957628,
+            "cosine_similarity": 0.7376095443957018
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.3467470321064905,
+            "chi_squared_distance": 1.2411247015649576,
+            "cosine_similarity": 1.6325905381450545
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.23658843249833764,
+            "chi_squared_distance": 0.8162692370889457,
+            "cosine_similarity": 1.219256370590803
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.23473583133873838,
+            "chi_squared_distance": 0.9330321659606255,
+            "cosine_similarity": 1.347539706049869
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.1793117450759674,
+            "chi_squared_distance": 0.5521231099711424,
+            "cosine_similarity": 0.820692754425375
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.4239149745061069,
+            "chi_squared_distance": 1.13535377139673,
+            "cosine_similarity": 1.8580179519334328
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.22726893543679938,
+            "chi_squared_distance": 0.7639243115177196,
+            "cosine_similarity": 1.2220048491607653
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.19671817983457845,
+            "chi_squared_distance": 0.5501977222648564,
+            "cosine_similarity": 0.9367159876587648
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.3271161027239574,
+            "chi_squared_distance": 1.3047562977693574,
+            "cosine_similarity": 1.6547278372586365
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.32077398643183286,
+            "chi_squared_distance": 1.127526659323227,
+            "cosine_similarity": 1.5871481384794932
+        }
+    },
+    "8994.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.13031390032125978,
+            "chi_squared_distance": 0.24743163495351914,
+            "cosine_similarity": 0.2555870029323857
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.21305665261645396,
+            "chi_squared_distance": 0.6890028945688517,
+            "cosine_similarity": 0.9646993174231362
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.11378734289182246,
+            "chi_squared_distance": 0.20616282797962965,
+            "cosine_similarity": 0.32723858935822114
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.07708691413079377,
+            "chi_squared_distance": 0.09577219135742725,
+            "cosine_similarity": 0.1080729825483524
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.3067088323197732,
+            "chi_squared_distance": 0.8483291752342903,
+            "cosine_similarity": 1.4975467624424308
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.18453981739973052,
+            "chi_squared_distance": 0.5785796726006822,
+            "cosine_similarity": 0.6823110778669736
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.3685462775774635,
+            "chi_squared_distance": 1.186075489658784,
+            "cosine_similarity": 1.829802737110549
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.19177333955637624,
+            "chi_squared_distance": 0.4597804792334547,
+            "cosine_similarity": 0.8175848268043518
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.22450996843027712,
+            "chi_squared_distance": 0.8034931963220877,
+            "cosine_similarity": 1.2133586054130405
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.20380700009890312,
+            "chi_squared_distance": 0.6219341447184368,
+            "cosine_similarity": 1.0000725298844613
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.4277080633224476,
+            "chi_squared_distance": 0.8656646923157152,
+            "cosine_similarity": 1.8124564127590688
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.2445190925938726,
+            "chi_squared_distance": 0.8418781495770853,
+            "cosine_similarity": 1.413692459578885
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.21564384551241553,
+            "chi_squared_distance": 0.6330097568411515,
+            "cosine_similarity": 1.1337381312953951
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.33348631710139354,
+            "chi_squared_distance": 1.2515304809614949,
+            "cosine_similarity": 1.6937555693433537
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.1995989555866013,
+            "chi_squared_distance": 0.46552248650362554,
+            "cosine_similarity": 0.6146561707744473
+        }
+    },
+    "8980.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.14724746534338853,
+            "chi_squared_distance": 0.2421478747456634,
+            "cosine_similarity": 0.3244783123885515
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.24257477321002324,
+            "chi_squared_distance": 0.811710555452814,
+            "cosine_similarity": 1.2763992087553593
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.11378734289182246,
+            "chi_squared_distance": 0.20616282797962965,
+            "cosine_similarity": 0.32723858935822114
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.13874910036941807,
+            "chi_squared_distance": 0.2697833202374059,
+            "cosine_similarity": 0.3996176587891811
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.29571656353887343,
+            "chi_squared_distance": 0.7231047473612547,
+            "cosine_similarity": 1.434286276326202
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.20575250220134983,
+            "chi_squared_distance": 0.7064773444306371,
+            "cosine_similarity": 0.8976813749693885
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.3679442853218735,
+            "chi_squared_distance": 1.1634682806219931,
+            "cosine_similarity": 1.8786005613775933
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.1682388836096953,
+            "chi_squared_distance": 0.3719407305353911,
+            "cosine_similarity": 0.6755862892702119
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.19378584670888804,
+            "chi_squared_distance": 0.6184547173639307,
+            "cosine_similarity": 0.9768680221163415
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.2004733512817718,
+            "chi_squared_distance": 0.6196891872819585,
+            "cosine_similarity": 1.0372742497720333
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.4200829923649496,
+            "chi_squared_distance": 0.7873145926527543,
+            "cosine_similarity": 1.7572980748191487
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.22825624225702998,
+            "chi_squared_distance": 0.6652725136053363,
+            "cosine_similarity": 1.2762633776244674
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.2071881705053452,
+            "chi_squared_distance": 0.5679903373104687,
+            "cosine_similarity": 1.1031248566384984
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.3303148017460471,
+            "chi_squared_distance": 1.1968125261391347,
+            "cosine_similarity": 1.7096506716776938
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.20541137865580888,
+            "chi_squared_distance": 0.5501374982541618,
+            "cosine_similarity": 0.6761398035331562
+        }
+    },
+    "8990.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.10556597320692418,
+            "chi_squared_distance": 0.2222990069681247,
+            "cosine_similarity": 0.23055514498162843
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.24781912748516494,
+            "chi_squared_distance": 0.8800826120426005,
+            "cosine_similarity": 1.159535409465752
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.07708691413079377,
+            "chi_squared_distance": 0.09577219135742725,
+            "cosine_similarity": 0.1080729825483524
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.13874910036941807,
+            "chi_squared_distance": 0.2697833202374059,
+            "cosine_similarity": 0.3996176587891811
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.3349883386473867,
+            "chi_squared_distance": 0.9613354477210949,
+            "cosine_similarity": 1.6152409901933877
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.22954538663436103,
+            "chi_squared_distance": 0.7780048623096447,
+            "cosine_similarity": 0.9447321065322236
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.401559748697647,
+            "chi_squared_distance": 1.3284081905499006,
+            "cosine_similarity": 2.0112161797078545
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.23317919655703334,
+            "chi_squared_distance": 0.6066613572887644,
+            "cosine_similarity": 1.0516036616365678
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.24590001542952694,
+            "chi_squared_distance": 0.8665440027246512,
+            "cosine_similarity": 1.294620977514709
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.24506967245607345,
+            "chi_squared_distance": 0.7800727894910084,
+            "cosine_similarity": 1.2262679011976598
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.44937349558642753,
+            "chi_squared_distance": 0.9456979992424319,
+            "cosine_similarity": 1.893741726138357
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.278808271825704,
+            "chi_squared_distance": 0.9689192988935289,
+            "cosine_similarity": 1.5808379184028076
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.23977422873448864,
+            "chi_squared_distance": 0.7076922797150631,
+            "cosine_similarity": 1.2068854956922421
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.36714790809578357,
+            "chi_squared_distance": 1.430580571434044,
+            "cosine_similarity": 1.8829036800293435
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.21002542746369252,
+            "chi_squared_distance": 0.5331450679268307,
+            "cosine_similarity": 0.7140941574867474
+        }
+    },
+    "3409.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.3550013152684527,
+            "chi_squared_distance": 0.9747032181484165,
+            "cosine_similarity": 1.6346490687110804
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.3020475326936878,
+            "chi_squared_distance": 0.9953838084224118,
+            "cosine_similarity": 1.5036346488591341
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.3067088323197732,
+            "chi_squared_distance": 0.8483291752342903,
+            "cosine_similarity": 1.4975467624424308
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.29571656353887343,
+            "chi_squared_distance": 0.7231047473612547,
+            "cosine_similarity": 1.434286276326202
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.3349883386473867,
+            "chi_squared_distance": 0.9613354477210949,
+            "cosine_similarity": 1.6152409901933877
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.29263049168266264,
+            "chi_squared_distance": 1.0881290394794418,
+            "cosine_similarity": 1.380065157992358
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.19422636932514012,
+            "chi_squared_distance": 0.4499956764205101,
+            "cosine_similarity": 0.6237643435431174
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.298354650280489,
+            "chi_squared_distance": 0.8296326832311711,
+            "cosine_similarity": 1.4509728056671856
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.2694950213373884,
+            "chi_squared_distance": 0.6526351085279081,
+            "cosine_similarity": 1.2248467217819483
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.2679120327045353,
+            "chi_squared_distance": 0.6444396695509147,
+            "cosine_similarity": 1.2262873017924143
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.2887431334212011,
+            "chi_squared_distance": 0.6671849546268402,
+            "cosine_similarity": 1.0485465969337973
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.1933790276204227,
+            "chi_squared_distance": 0.3486255795044475,
+            "cosine_similarity": 0.5350992020791435
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.29660971954713367,
+            "chi_squared_distance": 0.7339726383484128,
+            "cosine_similarity": 1.500579086409541
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.3196201022942283,
+            "chi_squared_distance": 0.7954598539152876,
+            "cosine_similarity": 1.2453138272281952
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.3765629163367421,
+            "chi_squared_distance": 1.0284185406500705,
+            "cosine_similarity": 1.7452838812891345
+        }
+    },
+    "8116.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.2529522087403634,
+            "chi_squared_distance": 0.7941446406567151,
+            "cosine_similarity": 0.9918058169200719
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.17545815444222015,
+            "chi_squared_distance": 0.5642071607957628,
+            "cosine_similarity": 0.7376095443957018
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.18453981739973052,
+            "chi_squared_distance": 0.5785796726006822,
+            "cosine_similarity": 0.6823110778669736
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.20575250220134983,
+            "chi_squared_distance": 0.7064773444306371,
+            "cosine_similarity": 0.8976813749693885
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.22954538663436103,
+            "chi_squared_distance": 0.7780048623096447,
+            "cosine_similarity": 0.9447321065322236
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.29263049168266264,
+            "chi_squared_distance": 1.0881290394794418,
+            "cosine_similarity": 1.380065157992358
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.36010308632039845,
+            "chi_squared_distance": 1.392615211262067,
+            "cosine_similarity": 1.7943525480369626
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.23006052669702445,
+            "chi_squared_distance": 0.9576457955993771,
+            "cosine_similarity": 1.1623739990534623
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.2410590863244035,
+            "chi_squared_distance": 1.238009228570352,
+            "cosine_similarity": 1.4142288092407447
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.19640224779830748,
+            "chi_squared_distance": 0.8625983178476055,
+            "cosine_similarity": 0.9575992529921691
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.4244596282027933,
+            "chi_squared_distance": 1.2401250107106994,
+            "cosine_similarity": 1.806957132123737
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.2496333254979476,
+            "chi_squared_distance": 1.1702532111433928,
+            "cosine_similarity": 1.454421906914306
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.2421249108344564,
+            "chi_squared_distance": 1.0216294392505882,
+            "cosine_similarity": 1.382944540647559
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.318297324817703,
+            "chi_squared_distance": 1.415936512573981,
+            "cosine_similarity": 1.572287776260116
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.2855831164917646,
+            "chi_squared_distance": 0.8553962525838975,
+            "cosine_similarity": 1.2705623005398732
+        }
+    },
+    "3486.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.416299222960565,
+            "chi_squared_distance": 1.266393701939878,
+            "cosine_similarity": 1.9890491259237715
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.3467470321064905,
+            "chi_squared_distance": 1.2411247015649576,
+            "cosine_similarity": 1.6325905381450545
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.3685462775774635,
+            "chi_squared_distance": 1.186075489658784,
+            "cosine_similarity": 1.829802737110549
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.3679442853218735,
+            "chi_squared_distance": 1.1634682806219931,
+            "cosine_similarity": 1.8786005613775933
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.401559748697647,
+            "chi_squared_distance": 1.3284081905499006,
+            "cosine_similarity": 2.0112161797078545
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.19422636932514012,
+            "chi_squared_distance": 0.4499956764205101,
+            "cosine_similarity": 0.6237643435431174
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.36010308632039845,
+            "chi_squared_distance": 1.392615211262067,
+            "cosine_similarity": 1.7943525480369626
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.3587151492244278,
+            "chi_squared_distance": 1.2031531165797866,
+            "cosine_similarity": 1.825878235730801
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.35297733535581277,
+            "chi_squared_distance": 1.1390589118322925,
+            "cosine_similarity": 1.80615983858909
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.284329186988338,
+            "chi_squared_distance": 0.7373718129738884,
+            "cosine_similarity": 1.1384195998278557
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.3610291149029033,
+            "chi_squared_distance": 0.9747615362081774,
+            "cosine_similarity": 1.3530015288564803
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.25478968158348136,
+            "chi_squared_distance": 0.6302584456936662,
+            "cosine_similarity": 0.8200214625732043
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.3677300032284068,
+            "chi_squared_distance": 1.2158279295278505,
+            "cosine_similarity": 1.982113088978632
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.3562220790861854,
+            "chi_squared_distance": 0.8361341203869201,
+            "cosine_similarity": 1.4902441228347154
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.3803410288742204,
+            "chi_squared_distance": 1.1288873375268929,
+            "cosine_similarity": 1.7503983576838946
+        }
+    },
+    "1468.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.26571190210494977,
+            "chi_squared_distance": 0.7465269847949283,
+            "cosine_similarity": 1.2053650384482464
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.23658843249833764,
+            "chi_squared_distance": 0.8162692370889457,
+            "cosine_similarity": 1.219256370590803
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.19177333955637624,
+            "chi_squared_distance": 0.4597804792334547,
+            "cosine_similarity": 0.8175848268043518
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.1682388836096953,
+            "chi_squared_distance": 0.3719407305353911,
+            "cosine_similarity": 0.6755862892702119
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.23317919655703334,
+            "chi_squared_distance": 0.6066613572887644,
+            "cosine_similarity": 1.0516036616365678
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.298354650280489,
+            "chi_squared_distance": 0.8296326832311711,
+            "cosine_similarity": 1.4509728056671856
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.23006052669702445,
+            "chi_squared_distance": 0.9576457955993771,
+            "cosine_similarity": 1.1623739990534623
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.3587151492244278,
+            "chi_squared_distance": 1.2031531165797866,
+            "cosine_similarity": 1.825878235730801
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.1896494659861977,
+            "chi_squared_distance": 0.6068001573166025,
+            "cosine_similarity": 0.8965182384444103
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.1931425050506381,
+            "chi_squared_distance": 0.6250119914125534,
+            "cosine_similarity": 0.9725529144446975
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.4319364591810466,
+            "chi_squared_distance": 0.9376040765491314,
+            "cosine_similarity": 1.8630726607654058
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.21467321618204654,
+            "chi_squared_distance": 0.6263196317010806,
+            "cosine_similarity": 1.1233680632620455
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.2063941339794853,
+            "chi_squared_distance": 0.5976074261089559,
+            "cosine_similarity": 1.0809448040515048
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.30074761806481964,
+            "chi_squared_distance": 1.019242358157999,
+            "cosine_similarity": 1.454911502887608
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.26694455312710774,
+            "chi_squared_distance": 0.8280190655258098,
+            "cosine_similarity": 1.2075166489216522
+        }
+    },
+    "1479.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.2635288522131978,
+            "chi_squared_distance": 0.951753140790781,
+            "cosine_similarity": 1.3085910769080429
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.23473583133873838,
+            "chi_squared_distance": 0.9330321659606255,
+            "cosine_similarity": 1.347539706049869
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.22450996843027712,
+            "chi_squared_distance": 0.8034931963220877,
+            "cosine_similarity": 1.2133586054130405
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.19378584670888804,
+            "chi_squared_distance": 0.6184547173639307,
+            "cosine_similarity": 0.9768680221163415
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.24590001542952694,
+            "chi_squared_distance": 0.8665440027246512,
+            "cosine_similarity": 1.294620977514709
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.2694950213373884,
+            "chi_squared_distance": 0.6526351085279081,
+            "cosine_similarity": 1.2248467217819483
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.2410590863244035,
+            "chi_squared_distance": 1.238009228570352,
+            "cosine_similarity": 1.4142288092407447
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.35297733535581277,
+            "chi_squared_distance": 1.1390589118322925,
+            "cosine_similarity": 1.80615983858909
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.1896494659861977,
+            "chi_squared_distance": 0.6068001573166025,
+            "cosine_similarity": 0.8965182384444103
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.18660907963336396,
+            "chi_squared_distance": 0.6475828627105666,
+            "cosine_similarity": 1.0057896300430902
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.41160499745230084,
+            "chi_squared_distance": 0.852115357011536,
+            "cosine_similarity": 1.7073512234696593
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.20146947394461162,
+            "chi_squared_distance": 0.54365017283406,
+            "cosine_similarity": 1.0505539080528297
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.20150623248676977,
+            "chi_squared_distance": 0.6200940536994728,
+            "cosine_similarity": 1.122602745866284
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.2392355105078568,
+            "chi_squared_distance": 0.747743137197977,
+            "cosine_similarity": 0.8592085575868319
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.2945409614201113,
+            "chi_squared_distance": 1.1636255649254297,
+            "cosine_similarity": 1.5550772502169297
+        }
+    },
+    "1484.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.2803484349043818,
+            "chi_squared_distance": 0.9304284906982311,
+            "cosine_similarity": 1.4165587305598937
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.1793117450759674,
+            "chi_squared_distance": 0.5521231099711424,
+            "cosine_similarity": 0.820692754425375
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.20380700009890312,
+            "chi_squared_distance": 0.6219341447184368,
+            "cosine_similarity": 1.0000725298844613
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.2004733512817718,
+            "chi_squared_distance": 0.6196891872819585,
+            "cosine_similarity": 1.0372742497720333
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.24506967245607345,
+            "chi_squared_distance": 0.7800727894910084,
+            "cosine_similarity": 1.2262679011976598
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.2679120327045353,
+            "chi_squared_distance": 0.6444396695509147,
+            "cosine_similarity": 1.2262873017924143
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.19640224779830748,
+            "chi_squared_distance": 0.8625983178476055,
+            "cosine_similarity": 0.9575992529921691
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.284329186988338,
+            "chi_squared_distance": 0.7373718129738884,
+            "cosine_similarity": 1.1384195998278557
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.1931425050506381,
+            "chi_squared_distance": 0.6250119914125534,
+            "cosine_similarity": 0.9725529144446975
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.18660907963336396,
+            "chi_squared_distance": 0.6475828627105666,
+            "cosine_similarity": 1.0057896300430902
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.39880968463627875,
+            "chi_squared_distance": 0.7229205431202456,
+            "cosine_similarity": 1.6190362288834974
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.18240113308296485,
+            "chi_squared_distance": 0.4806938915899576,
+            "cosine_similarity": 0.8803960352258895
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.19232567291730668,
+            "chi_squared_distance": 0.545433261317262,
+            "cosine_similarity": 1.0690291539672008
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.27931390889705765,
+            "chi_squared_distance": 0.8829006251774074,
+            "cosine_similarity": 1.2267590192261393
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.2351109079332031,
+            "chi_squared_distance": 0.677641886484133,
+            "cosine_similarity": 0.988146673480611
+        }
+    },
+    "1488.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.4816163631159502,
+            "chi_squared_distance": 1.0960521341715872,
+            "cosine_similarity": 2.041616712033287
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.4239149745061069,
+            "chi_squared_distance": 1.13535377139673,
+            "cosine_similarity": 1.8580179519334328
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.4277080633224476,
+            "chi_squared_distance": 0.8656646923157152,
+            "cosine_similarity": 1.8124564127590688
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.4200829923649496,
+            "chi_squared_distance": 0.7873145926527543,
+            "cosine_similarity": 1.7572980748191487
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.44937349558642753,
+            "chi_squared_distance": 0.9456979992424319,
+            "cosine_similarity": 1.893741726138357
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.2887431334212011,
+            "chi_squared_distance": 0.6671849546268402,
+            "cosine_similarity": 1.0485465969337973
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.4244596282027933,
+            "chi_squared_distance": 1.2401250107106994,
+            "cosine_similarity": 1.806957132123737
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.3610291149029033,
+            "chi_squared_distance": 0.9747615362081774,
+            "cosine_similarity": 1.3530015288564803
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.4319364591810466,
+            "chi_squared_distance": 0.9376040765491314,
+            "cosine_similarity": 1.8630726607654058
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.41160499745230084,
+            "chi_squared_distance": 0.852115357011536,
+            "cosine_similarity": 1.7073512234696593
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.39880968463627875,
+            "chi_squared_distance": 0.7229205431202456,
+            "cosine_similarity": 1.6190362288834974
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.3559906384070769,
+            "chi_squared_distance": 0.7052015545542154,
+            "cosine_similarity": 1.1372663257855868
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.36742632565171285,
+            "chi_squared_distance": 0.6714041336599867,
+            "cosine_similarity": 1.3192303860006172
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.49557044469808503,
+            "chi_squared_distance": 1.3552007947641151,
+            "cosine_similarity": 2.147652534245774
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.4855127491969736,
+            "chi_squared_distance": 1.0797673139625033,
+            "cosine_similarity": 1.9986833281090537
+        }
+    },
+    "3448.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.3054762133033904,
+            "chi_squared_distance": 1.0164268628950162,
+            "cosine_similarity": 1.6411726942041693
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.22726893543679938,
+            "chi_squared_distance": 0.7639243115177196,
+            "cosine_similarity": 1.2220048491607653
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.2445190925938726,
+            "chi_squared_distance": 0.8418781495770853,
+            "cosine_similarity": 1.413692459578885
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.22825624225702998,
+            "chi_squared_distance": 0.6652725136053363,
+            "cosine_similarity": 1.2762633776244674
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.278808271825704,
+            "chi_squared_distance": 0.9689192988935289,
+            "cosine_similarity": 1.5808379184028076
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.1933790276204227,
+            "chi_squared_distance": 0.3486255795044475,
+            "cosine_similarity": 0.5350992020791435
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.2496333254979476,
+            "chi_squared_distance": 1.1702532111433928,
+            "cosine_similarity": 1.454421906914306
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.25478968158348136,
+            "chi_squared_distance": 0.6302584456936662,
+            "cosine_similarity": 0.8200214625732043
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.21467321618204654,
+            "chi_squared_distance": 0.6263196317010806,
+            "cosine_similarity": 1.1233680632620455
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.20146947394461162,
+            "chi_squared_distance": 0.54365017283406,
+            "cosine_similarity": 1.0505539080528297
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.18240113308296485,
+            "chi_squared_distance": 0.4806938915899576,
+            "cosine_similarity": 0.8803960352258895
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.3559906384070769,
+            "chi_squared_distance": 0.7052015545542154,
+            "cosine_similarity": 1.1372663257855868
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.1992983812206644,
+            "chi_squared_distance": 0.48906029963342706,
+            "cosine_similarity": 1.0414909097238731
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.2669778703298443,
+            "chi_squared_distance": 0.8373794175991132,
+            "cosine_similarity": 1.1561180688835004
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.3099154682304989,
+            "chi_squared_distance": 1.047495496737603,
+            "cosine_similarity": 1.6194980140771662
+        }
+    },
+    "1472.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.29138389549697025,
+            "chi_squared_distance": 0.9736463327965388,
+            "cosine_similarity": 1.5494344892061083
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.19671817983457845,
+            "chi_squared_distance": 0.5501977222648564,
+            "cosine_similarity": 0.9367159876587648
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.21564384551241553,
+            "chi_squared_distance": 0.6330097568411515,
+            "cosine_similarity": 1.1337381312953951
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.2071881705053452,
+            "chi_squared_distance": 0.5679903373104687,
+            "cosine_similarity": 1.1031248566384984
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.23977422873448864,
+            "chi_squared_distance": 0.7076922797150631,
+            "cosine_similarity": 1.2068854956922421
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.29660971954713367,
+            "chi_squared_distance": 0.7339726383484128,
+            "cosine_similarity": 1.500579086409541
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.2421249108344564,
+            "chi_squared_distance": 1.0216294392505882,
+            "cosine_similarity": 1.382944540647559
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.3677300032284068,
+            "chi_squared_distance": 1.2158279295278505,
+            "cosine_similarity": 1.982113088978632
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.2063941339794853,
+            "chi_squared_distance": 0.5976074261089559,
+            "cosine_similarity": 1.0809448040515048
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.20150623248676977,
+            "chi_squared_distance": 0.6200940536994728,
+            "cosine_similarity": 1.122602745866284
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.19232567291730668,
+            "chi_squared_distance": 0.545433261317262,
+            "cosine_similarity": 1.0690291539672008
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.36742632565171285,
+            "chi_squared_distance": 0.6714041336599867,
+            "cosine_similarity": 1.3192303860006172
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.1992983812206644,
+            "chi_squared_distance": 0.48906029963342706,
+            "cosine_similarity": 1.0414909097238731
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.3419303486111209,
+            "chi_squared_distance": 1.3185518151339908,
+            "cosine_similarity": 1.9386006458862912
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.3132657755816905,
+            "chi_squared_distance": 1.0769475390250522,
+            "cosine_similarity": 1.7224802863695057
+        }
+    },
+    "3402.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.36228438414379754,
+            "chi_squared_distance": 1.2922705689543337,
+            "cosine_similarity": 1.7213749174166293
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.3271161027239574,
+            "chi_squared_distance": 1.3047562977693574,
+            "cosine_similarity": 1.6547278372586365
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.33348631710139354,
+            "chi_squared_distance": 1.2515304809614949,
+            "cosine_similarity": 1.6937555693433537
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.3303148017460471,
+            "chi_squared_distance": 1.1968125261391347,
+            "cosine_similarity": 1.7096506716776938
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.36714790809578357,
+            "chi_squared_distance": 1.430580571434044,
+            "cosine_similarity": 1.8829036800293435
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.3196201022942283,
+            "chi_squared_distance": 0.7954598539152876,
+            "cosine_similarity": 1.2453138272281952
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.318297324817703,
+            "chi_squared_distance": 1.415936512573981,
+            "cosine_similarity": 1.572287776260116
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.3562220790861854,
+            "chi_squared_distance": 0.8361341203869201,
+            "cosine_similarity": 1.4902441228347154
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.30074761806481964,
+            "chi_squared_distance": 1.019242358157999,
+            "cosine_similarity": 1.454911502887608
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.2392355105078568,
+            "chi_squared_distance": 0.747743137197977,
+            "cosine_similarity": 0.8592085575868319
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.27931390889705765,
+            "chi_squared_distance": 0.8829006251774074,
+            "cosine_similarity": 1.2267590192261393
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.49557044469808503,
+            "chi_squared_distance": 1.3552007947641151,
+            "cosine_similarity": 2.147652534245774
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.2669778703298443,
+            "chi_squared_distance": 0.8373794175991132,
+            "cosine_similarity": 1.1561180688835004
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.3419303486111209,
+            "chi_squared_distance": 1.3185518151339908,
+            "cosine_similarity": 1.9386006458862912
+        },
+        "8965.jpg": {
+            "euclidean_distance": 0.3784341390763739,
+            "chi_squared_distance": 1.2689301030140065,
+            "cosine_similarity": 1.837197116567627
+        }
+    },
+    "8965.jpg": {
+        "8982.jpg": {
+            "euclidean_distance": 0.21302715387239712,
+            "chi_squared_distance": 0.4945565330698552,
+            "cosine_similarity": 0.7147249424350419
+        },
+        "8189.jpg": {
+            "euclidean_distance": 0.32077398643183286,
+            "chi_squared_distance": 1.127526659323227,
+            "cosine_similarity": 1.5871481384794932
+        },
+        "8994.jpg": {
+            "euclidean_distance": 0.1995989555866013,
+            "chi_squared_distance": 0.46552248650362554,
+            "cosine_similarity": 0.6146561707744473
+        },
+        "8980.jpg": {
+            "euclidean_distance": 0.20541137865580888,
+            "chi_squared_distance": 0.5501374982541618,
+            "cosine_similarity": 0.6761398035331562
+        },
+        "8990.jpg": {
+            "euclidean_distance": 0.21002542746369252,
+            "chi_squared_distance": 0.5331450679268307,
+            "cosine_similarity": 0.7140941574867474
+        },
+        "3409.jpg": {
+            "euclidean_distance": 0.3765629163367421,
+            "chi_squared_distance": 1.0284185406500705,
+            "cosine_similarity": 1.7452838812891345
+        },
+        "8116.jpg": {
+            "euclidean_distance": 0.2855831164917646,
+            "chi_squared_distance": 0.8553962525838975,
+            "cosine_similarity": 1.2705623005398732
+        },
+        "3486.jpg": {
+            "euclidean_distance": 0.3803410288742204,
+            "chi_squared_distance": 1.1288873375268929,
+            "cosine_similarity": 1.7503983576838946
+        },
+        "1468.jpg": {
+            "euclidean_distance": 0.26694455312710774,
+            "chi_squared_distance": 0.8280190655258098,
+            "cosine_similarity": 1.2075166489216522
+        },
+        "1479.jpg": {
+            "euclidean_distance": 0.2945409614201113,
+            "chi_squared_distance": 1.1636255649254297,
+            "cosine_similarity": 1.5550772502169297
+        },
+        "1484.jpg": {
+            "euclidean_distance": 0.2351109079332031,
+            "chi_squared_distance": 0.677641886484133,
+            "cosine_similarity": 0.988146673480611
+        },
+        "1488.jpg": {
+            "euclidean_distance": 0.4855127491969736,
+            "chi_squared_distance": 1.0797673139625033,
+            "cosine_similarity": 1.9986833281090537
+        },
+        "3448.jpg": {
+            "euclidean_distance": 0.3099154682304989,
+            "chi_squared_distance": 1.047495496737603,
+            "cosine_similarity": 1.6194980140771662
+        },
+        "1472.jpg": {
+            "euclidean_distance": 0.3132657755816905,
+            "chi_squared_distance": 1.0769475390250522,
+            "cosine_similarity": 1.7224802863695057
+        },
+        "3402.jpg": {
+            "euclidean_distance": 0.3784341390763739,
+            "chi_squared_distance": 1.2689301030140065,
+            "cosine_similarity": 1.837197116567627
+        }
+    }
+}
