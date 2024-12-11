@@ -1,0 +1,362 @@
+{
+    "apple-5.gif": [
+        {
+            "image": "apple-5.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "apple-4.gif",
+            "distance": 12.016266231266467
+        },
+        {
+            "image": "apple-1.gif",
+            "distance": 12.110596391121254
+        },
+        {
+            "image": "apple-2.gif",
+            "distance": 12.149134977967536
+        }
+    ],
+    "apple-4.gif": [
+        {
+            "image": "apple-4.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "apple-1.gif",
+            "distance": 2.2715768601076562
+        },
+        {
+            "image": "apple-5.gif",
+            "distance": 12.016266231266467
+        },
+        {
+            "image": "apple-2.gif",
+            "distance": 17.078698113255147
+        }
+    ],
+    "apple-2.gif": [
+        {
+            "image": "apple-2.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "apple-5.gif",
+            "distance": 12.149134977967536
+        },
+        {
+            "image": "apple-1.gif",
+            "distance": 17.00744551710277
+        },
+        {
+            "image": "apple-4.gif",
+            "distance": 17.078698113255147
+        }
+    ],
+    "apple-1.gif": [
+        {
+            "image": "apple-1.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "apple-4.gif",
+            "distance": 2.2715768601076562
+        },
+        {
+            "image": "apple-5.gif",
+            "distance": 12.110596391121254
+        },
+        {
+            "image": "apple-2.gif",
+            "distance": 17.00744551710277
+        }
+    ],
+    "camel-1.gif": [
+        {
+            "image": "camel-1.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "camel-3.gif",
+            "distance": 11.050016011228433
+        },
+        {
+            "image": "camel-4.gif",
+            "distance": 17.0023286674599
+        },
+        {
+            "image": "camel-5.gif",
+            "distance": 19.036987523042672
+        }
+    ],
+    "camel-3.gif": [
+        {
+            "image": "camel-3.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "camel-1.gif",
+            "distance": 11.050016011228433
+        },
+        {
+            "image": "camel-5.gif",
+            "distance": 16.681367574077903
+        },
+        {
+            "image": "camel-4.gif",
+            "distance": 19.704963622375917
+        }
+    ],
+    "camel-5.gif": [
+        {
+            "image": "camel-5.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "camel-4.gif",
+            "distance": 8.78492090713839
+        },
+        {
+            "image": "camel-3.gif",
+            "distance": 16.681367574077903
+        },
+        {
+            "image": "camel-1.gif",
+            "distance": 19.036987523042672
+        }
+    ],
+    "camel-4.gif": [
+        {
+            "image": "camel-4.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "camel-5.gif",
+            "distance": 8.78492090713839
+        },
+        {
+            "image": "camel-1.gif",
+            "distance": 17.0023286674599
+        },
+        {
+            "image": "camel-3.gif",
+            "distance": 19.704963622375917
+        }
+    ],
+    "bell-2.gif": [
+        {
+            "image": "bell-2.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "bell-5.gif",
+            "distance": 0.9411974044739084
+        },
+        {
+            "image": "bell-1.gif",
+            "distance": 12.00163775230193
+        },
+        {
+            "image": "bell-4.gif",
+            "distance": 12.038073731128902
+        }
+    ],
+    "bell-1.gif": [
+        {
+            "image": "bell-1.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "bell-4.gif",
+            "distance": 0.7536643684369448
+        },
+        {
+            "image": "bell-2.gif",
+            "distance": 12.00163775230193
+        },
+        {
+            "image": "bell-5.gif",
+            "distance": 12.018065127380888
+        }
+    ],
+    "bell-5.gif": [
+        {
+            "image": "bell-5.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "bell-2.gif",
+            "distance": 0.9411974044739084
+        },
+        {
+            "image": "bell-4.gif",
+            "distance": 11.995570793848168
+        },
+        {
+            "image": "bell-1.gif",
+            "distance": 12.018065127380888
+        }
+    ],
+    "bell-4.gif": [
+        {
+            "image": "bell-4.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "bell-1.gif",
+            "distance": 0.7536643684369448
+        },
+        {
+            "image": "bell-5.gif",
+            "distance": 11.995570793848168
+        },
+        {
+            "image": "bell-2.gif",
+            "distance": 12.038073731128902
+        }
+    ],
+    "bird-7.gif": [
+        {
+            "image": "bird-7.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "bird-13.gif",
+            "distance": 0.5816626145685301
+        },
+        {
+            "image": "bird-15.gif",
+            "distance": 0.675109658067987
+        },
+        {
+            "image": "bird-14.gif",
+            "distance": 9.927098768509763
+        }
+    ],
+    "bird-14.gif": [
+        {
+            "image": "bird-14.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "bird-15.gif",
+            "distance": 9.643935763699483
+        },
+        {
+            "image": "bird-13.gif",
+            "distance": 9.76538669800123
+        },
+        {
+            "image": "bird-7.gif",
+            "distance": 9.927098768509763
+        }
+    ],
+    "bird-15.gif": [
+        {
+            "image": "bird-15.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "bird-13.gif",
+            "distance": 0.44255645183960607
+        },
+        {
+            "image": "bird-7.gif",
+            "distance": 0.675109658067987
+        },
+        {
+            "image": "bird-14.gif",
+            "distance": 9.643935763699483
+        }
+    ],
+    "bird-13.gif": [
+        {
+            "image": "bird-13.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "bird-15.gif",
+            "distance": 0.44255645183960607
+        },
+        {
+            "image": "bird-7.gif",
+            "distance": 0.5816626145685301
+        },
+        {
+            "image": "bird-14.gif",
+            "distance": 9.76538669800123
+        }
+    ],
+    "device0-5.gif": [
+        {
+            "image": "device0-5.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "device0-2.gif",
+            "distance": 0.4127225721703588
+        },
+        {
+            "image": "device0-4.gif",
+            "distance": 16.973394002805016
+        },
+        {
+            "image": "device0-1.gif",
+            "distance": 20.7867000519899
+        }
+    ],
+    "device0-4.gif": [
+        {
+            "image": "device0-4.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "device0-1.gif",
+            "distance": 12.008028531320011
+        },
+        {
+            "image": "device0-2.gif",
+            "distance": 16.973316952678655
+        },
+        {
+            "image": "device0-5.gif",
+            "distance": 16.973394002805016
+        }
+    ],
+    "device0-1.gif": [
+        {
+            "image": "device0-1.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "device0-4.gif",
+            "distance": 12.008028531320011
+        },
+        {
+            "image": "device0-5.gif",
+            "distance": 20.7867000519899
+        },
+        {
+            "image": "device0-2.gif",
+            "distance": 20.786864663019582
+        }
+    ],
+    "device0-2.gif": [
+        {
+            "image": "device0-2.gif",
+            "distance": 0.0
+        },
+        {
+            "image": "device0-5.gif",
+            "distance": 0.4127225721703588
+        },
+        {
+            "image": "device0-4.gif",
+            "distance": 16.973316952678655
+        },
+        {
+            "image": "device0-1.gif",
+            "distance": 20.786864663019582
+        }
+    ]
+}
