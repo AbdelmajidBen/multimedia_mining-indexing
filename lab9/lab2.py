@@ -1,106 +1,147 @@
 from OpenGL.GL import *
-from OpenGL.GLU import *
 from OpenGL.GLUT import *
-import numpy as np
+from OpenGL.GLU import *
 
-# Définir les points de contrôle (exemple d'une grille 3x3)
-control_points = np.array([
-    [0.0, 0.0, 0.0],  # Point de contrôle 0
-    [1.0, 0.0, 0.0],  # Point de contrôle 1
-    [2.0, 0.0, 0.0],  # Point de contrôle 2
-    [0.0, 1.0, 0.0],  # Point de contrôle 3
-    [1.0, 1.0, 0.0],  # Point de contrôle 4
-    [2.0, 1.0, 0.0],  # Point de contrôle 5
-    [0.0, 2.0, 0.0],  # Point de contrôle 6
-    [1.0, 2.0, 0.0],  # Point de contrôle 7
-    [2.0, 2.0, 0.0],  # Point de contrôle 8
-    [0.0, 3.0, 0.0],  # Point de contrôle 9
-    [1.0, 3.0, 0.0],  # Point de contrôle 10
-])
+camera_pos = [5.0, 5.0, 5.0]  
+camera_target = [1.0, 1.0, 0.0]  
+camera_up = [0.0, 1.0, 0.0]  
 
-# Variables pour gérer les positions de la caméra et les angles
-camera_pos = np.array([3.0, 3.0, 3.0])  # Position initiale de la caméra
-view_mode = 0  # Mode de vue actuel : 0 = vue standard, 1 = vue de côté, 2 = vue du dessus
+control_points = [
+    [[0.0, 0.0, 0.0], [0.0, 1.0, 0.0], [0.0, 2.0, 0.0]],
+    [[1.0, 0.0, 0.0], [1.0, 1.0, 1.0], [1.0, 2.0, 0.0]],
+    [[2.0, 0.0, 0.0], [2.0, 1.0, 0.0], [2.0, 2.0, 0.0]]
+]
 
-# Fonction pour calculer la surface de Bézier
-def bezier_surface(u, v, control_points):
-    p = np.zeros(3)  # Point final de la surface
+current_point = [0, 0]  
+step = 0.1  
+sign = 1    
+
+def init():
+    glClearColor(1.0, 1.0, 1.0, 1.0)
+    glEnable(GL_DEPTH_TEST)
+    glEnable(GL_LIGHTING)
+    glEnable(GL_LIGHT0)
+    glLightfv(GL_LIGHT0, GL_POSITION, [1.0, 1.0, 1.0, 0.0])
+
+def draw_control_points():
+    glPointSize(5.0)
+    glBegin(GL_POINTS)
+    glColor3f(1.0, 0.0, 0.0)
     for i in range(3):
         for j in range(3):
-            p += (1 - u)**(2 - i) * u**i * (1 - v)**(2 - j) * v**j * control_points[i * 3 + j]
-    return p
+            if i == current_point[0] and j == current_point[1]:
+                glColor3f(1.0, 1.0, 0.0)
+            else:
+                glColor3f(1.0, 0.0, 0.0)
+            glVertex3fv(control_points[i][j])
+    glEnd()
 
-# Fonction pour dessiner la surface de Bézier
+def evaluate_bezier_surface(u, v):
+    def bezier_basis(t):
+        return [(1-t)**2, 2*t*(1-t), t**2]
+    
+    bu = bezier_basis(u)
+    bv = bezier_basis(v)
+    
+    point = [0.0, 0.0, 0.0]
+    for i in range(3):
+        for j in range(3):
+            for k in range(3):
+                point[k] += bu[i] * bv[j] * control_points[i][j][k]
+    return point
+
 def draw_bezier_surface():
-    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)
-    glLoadIdentity()
+    glColor3f(0.0, 0.0, 1.0)
+    steps = 20
+    
+    for i in range(steps):
+        u = i / float(steps-1)
+        glBegin(GL_LINE_STRIP)
+        for j in range(steps):
+            v = j / float(steps-1)
+            point = evaluate_bezier_surface(u, v)
+            glVertex3fv(point)
+        glEnd()
+        
+    for j in range(steps):
+        v = j / float(steps-1)
+        glBegin(GL_LINE_STRIP)
+        for i in range(steps):
+            u = i / float(steps-1)
+            point = evaluate_bezier_surface(u, v)
+            glVertex3fv(point)
+        glEnd()
 
-    # Changer la vue selon le mode de visualisation
-    if view_mode == 0:  # Vue standard
-        gluLookAt(camera_pos[0], camera_pos[1], camera_pos[2], 1.0, 1.0, 0.0, 0.0, 1.0, 0.0)
-    elif view_mode == 1:  # Vue de côté
-        gluLookAt(5.0, 0.0, 3.0, 1.0, 1.0, 0.0, 0.0, 1.0, 0.0)
-    elif view_mode == 2:  # Vue du dessus
-        gluLookAt(1.0, 5.0, 3.0, 1.0, 1.0, 0.0, 0.0, 1.0, 0.0)
-
-    # Dessiner les points de contrôle
-    glPointSize(10)
-    glBegin(GL_POINTS)
-    glColor3f(1.0, 0.0, 0.0)  # Couleur rouge pour les points de contrôle
-    for point in control_points:
-        glVertex3fv(point)
-    glEnd()
-
-    # Dessiner la surface de Bézier
-    glColor3f(0.0, 1.0, 0.0)  # Couleur verte pour la surface
-    glBegin(GL_LINE_STRIP)
-    for u in np.linspace(0, 1, 100):
-        for v in np.linspace(0, 1, 100):
-            p = bezier_surface(u, v, control_points)
-            glVertex3fv(p)
-    glEnd()
-
-    # Afficher les résultats
-    glutSwapBuffers()
-
-# Fonction pour gérer les entrées clavier
-def keyboard(key, x, y):
-    global view_mode
-
-    if key == b'a':  # Vue standard (Perspective)
-        view_mode = 0
-    elif key == b'b':  # Vue de côté (caméra à droite)
-        view_mode = 1
-    elif key == b'c':  # Vue du dessus (caméra au-dessus)
-        view_mode = 2
-
-    # Redessiner la scène après modification
-    glutPostRedisplay()
-
-# Fonction pour gérer la mise à jour de la fenêtre
 def reshape(w, h):
     glViewport(0, 0, w, h)
     glMatrixMode(GL_PROJECTION)
     glLoadIdentity()
-    gluPerspective(45.0, float(w)/float(h), 0.1, 100.0)
+    gluPerspective(45.0, w/h, 0.1, 50.0)
     glMatrixMode(GL_MODELVIEW)
 
-# Fonction principale
+def display():
+    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)
+    glLoadIdentity()
+    gluLookAt(camera_pos[0], camera_pos[1], camera_pos[2],
+              camera_target[0], camera_target[1], camera_target[2],
+              camera_up[0], camera_up[1], camera_up[2])
+    
+    draw_bezier_surface()
+    draw_control_points()
+    
+    glutSwapBuffers()
+
+def keyboard(key, x, y):
+    global current_point, sign, camera_pos, camera_target
+    
+    key = key.decode('utf-8').lower()
+    i, j = current_point
+    
+    if key == 'x':
+        control_points[i][j][0] += sign * step
+    elif key == 'y':
+        control_points[i][j][1] += sign * step
+    elif key == 'z':
+        control_points[i][j][2] += sign * step
+    elif key == '-':
+        sign = -sign
+    elif key == '\t':
+        current_point[1] += 1
+        if current_point[1] > 2:
+            current_point[1] = 0
+            current_point[0] += 1
+            if current_point[0] > 2:
+                current_point[0] = 0
+    
+    elif key == 'w':
+        camera_pos[2] -= 0.5
+    elif key == 'a':
+        camera_pos[0] -= 0.5
+    elif key == 's':
+        camera_pos[2] += 0.5
+    elif key == 'd':
+        camera_pos[0] += 0.5
+    elif key == 'q':
+        camera_pos[1] += 0.5
+    elif key == 'e':
+        camera_pos[1] -= 0.5
+    elif key == 'r':
+        camera_pos = [5.0, 5.0, 5.0]
+        camera_target = [1.0, 1.0, 0.0]
+    
+    glutPostRedisplay()
+
 def main():
     glutInit()
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH)
     glutInitWindowSize(800, 600)
-    glutCreateWindow("Surface de Bézier 3D avec points de contrôle")
-
-    glEnable(GL_DEPTH_TEST)
-    glClearColor(0.0, 0.0, 0.0, 1.0)  # Fond noir
-
-    # Définir les fonctions de gestion des événements
-    glutDisplayFunc(draw_bezier_surface)
-    glutKeyboardFunc(keyboard)
+    glutCreateWindow(b"Bezier Surface Control")
+    
+    init()
+    
+    glutDisplayFunc(display)
     glutReshapeFunc(reshape)
-
-    # Lancer la boucle GLUT
+    glutKeyboardFunc(keyboard)
     glutMainLoop()
 
 if __name__ == "__main__":
