@@ -5,7 +5,6 @@
 // Nombre de points de contrôle
 #define CTRL_POINTS 3
 
-// Points de contrôle (modifiables avec le clavier)
 float controlPoints[CTRL_POINTS][CTRL_POINTS][3] = {
     {{-1.0, -1.0, 0.0}, {-0.5, -1.0, 0.5}, {0.0, -1.0, 0.0}},
     {{-1.0, -0.5, 0.5}, {-0.5, -0.5, 1.0}, {0.0, -0.5, 0.5}},
@@ -128,7 +127,8 @@ void keyboard(unsigned char key, int x, int y) {
 // Initialisation
 void init() {
     glEnable(GL_DEPTH_TEST);
-    glClearColor(0.8, 0.8, 0.8, 1.0); // Fond gris clair
+    glClearColor(0.0, 0.0, 0.0, 1.0); // Fond noir
+
     glMatrixMode(GL_PROJECTION);
     glLoadIdentity();
     gluPerspective(45.0, 1.33, 1.0, 10.0); // Adjust perspective for better view
