@@ -9,7 +9,7 @@ background = cv2.resize(background, (image.shape[1], image.shape[0]))
 
 hsv_image = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
 
-lower_green = np.array([35, 40, 40])  # Adjust these values as needed
+lower_green = np.array([35, 40, 40]) 
 upper_green = np.array([85, 255, 255])
 
 mask = cv2.inRange(hsv_image, lower_green, upper_green)

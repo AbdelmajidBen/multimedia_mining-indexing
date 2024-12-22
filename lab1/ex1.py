@@ -3,6 +3,7 @@ import numpy as np
 
 def nothing(x):
     pass
+
 image = cv2.imread('/Users/mac/Desktop/MST AISD/S3/mutimedia mining/multimedia-mining-indexing labs/lab1/images/im1.jpg')
 
 # Convert the image to HSV
