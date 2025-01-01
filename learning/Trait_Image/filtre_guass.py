@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
-image_path = "learning/Images/im2.jpg"
+image_path = "learning/Images/im4.jpeg"
 image = cv2.imread(image_path)
 if image is None:
     print(f"Erreur : Impossible de charger l'image {image_path}. Vérifiez le chemin.")

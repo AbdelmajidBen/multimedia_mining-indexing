@@ -2,21 +2,27 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
+
 # Charger une image en niveaux de gris
-image = cv2.imread('learning/Images/im3.jpeg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('learning/Images/im4.jpeg', cv2.IMREAD_GRAYSCALE)
+
 
 # Étape 1 : Réduction du bruit
-blurred = cv2.GaussianBlur(image, (5, 5), 1.4)
+blurred = cv2.GaussianBlur(image, (5, 5), 0)
+
 
 # Étape 2 : Détection automatique des seuils
-median_intensity = np.median(blurred)  # Calcul de l'intensité médiane
+median_intensity = np.median(blurred)  
+
 
 # Fixer les seuils automatiquement en fonction de l'intensité médiane
-low_threshold = int(max(0, 0.66 * median_intensity))
+low_threshold = int(max(0, 0.44 * median_intensity))
 high_threshold = int(min(255, 1.33 * median_intensity))
+
 
 # Étape 3 : Appliquer l'algorithme de Canny
 edges = cv2.Canny(blurred, low_threshold, high_threshold)
+
 
 # Visualisation des résultats
 plt.figure(figsize=(10, 6))
